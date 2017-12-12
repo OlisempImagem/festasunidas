@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
 
 #dropdown-menu-k .hide-buttons [data-button] {
   display: none !important;
@@ -19,5 +21,96 @@
   background: #292929;
 }
 #dropdown-menu-k .navbar-toggler {
+  color: #ffffff;
+}
+#form1-y .mbr-header__text {
+  font-family: 'Lato', sans-serif;
+}
+
+#dropdown-menu-10 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-10 .nav .link,
+#dropdown-menu-10 .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-10 .navbar,
+#dropdown-menu-10 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-10 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-10 .dropdown-menu a:hover,
+#dropdown-menu-10 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-10 .navbar-toggler {
+  color: #ffffff;
+}
+
+#dropdown-menu-14 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-14 .nav .link,
+#dropdown-menu-14 .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-14 .navbar,
+#dropdown-menu-14 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-14 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-14 .dropdown-menu a:hover,
+#dropdown-menu-14 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-14 .navbar-toggler {
+  color: #ffffff;
+}
+
+#dropdown-menu-18 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-18 .nav .link,
+#dropdown-menu-18 .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-18 .navbar,
+#dropdown-menu-18 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-18 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-18 .dropdown-menu a:hover,
+#dropdown-menu-18 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-18 .navbar-toggler {
+  color: #ffffff;
+}
+
+#dropdown-menu-1c .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1c .nav .link,
+#dropdown-menu-1c .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-1c .navbar,
+#dropdown-menu-1c .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-1c .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1c .dropdown-menu a:hover,
+#dropdown-menu-1c .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-1c .navbar-toggler {
   color: #ffffff;
 }
