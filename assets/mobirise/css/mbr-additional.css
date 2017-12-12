@@ -175,6 +175,8 @@
 
 #msg-box1-29 .mbr-header .mbr-header__text {
   color: #fff;
+  font-size: 12px;
+  text-align: right;
 }
 #msg-box1-29 .mbr-article {
   color: #fff;

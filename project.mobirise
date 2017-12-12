@@ -3,7 +3,7 @@
     "name": "Festas unidas",
     "currentPage": "principal.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 82,
+    "uniqCompNum": 83,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": []
@@ -1464,7 +1464,9 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#fff"
+              "color": "#fff",
+              "font-size": "12px",
+              "text-align": "right"
             },
             ".mbr-article": {
               "color": "#fff",
@@ -1475,7 +1477,7 @@
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "paddingTop": "1",
@@ -1493,7 +1495,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "PRE MADE BLOCKS",
+          "title": "Cique para voltar",
           "text": "Entre em contato&nbsp;<br><i>Para receber orçament</i>o",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
