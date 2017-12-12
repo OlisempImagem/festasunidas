@@ -1497,7 +1497,7 @@
           },
           "title": "Cique para voltar",
           "text": "Entre em contato&nbsp;<br><i>Para receber orçament</i>o",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html#content4-28\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
           "_tags": [
             "Theme"
           ],
