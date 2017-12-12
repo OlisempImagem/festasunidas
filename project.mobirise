@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "principal.html",
+    "currentPage": "bandas.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 83,
+    "uniqCompNum": 84,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": []
@@ -1506,7 +1506,7 @@
         },
         {
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "animType": "blur",
             "theme": "animated",
             "slides": [
@@ -1606,7 +1606,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Informe o nome da empresa que deseja contratar."
               }
             }
           },
