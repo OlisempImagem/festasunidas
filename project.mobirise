@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "page1.html",
+    "currentPage": "someiluminacao.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 131,
     "versionPublish": "4.5.2",
@@ -852,22 +852,6 @@
       "components": [
         {
           "_name": "menu1"
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "_anchor": "footer1-2m"
         },
         {
           "_styles": {
