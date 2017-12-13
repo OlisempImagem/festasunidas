@@ -173,6 +173,7 @@
 }
 
 
+
 #msg-box1-29 .mbr-header .mbr-header__text {
   color: #fff;
   font-size: 12px;
@@ -183,6 +184,13 @@
   font-family: 'Slabo 27px', serif;
   font-size: 19px;
   text-align: center;
+}
+#msg-box2-2l .mbr-header .mbr-header__text {
+  color: #252525;
+  font-family: 'Slabo 27px', serif;
+}
+#msg-box2-2l .mbr-article {
+  color: #252525;
 }
 #form1-23 .mbr-header__text {
   font-family: 'Lato', sans-serif;

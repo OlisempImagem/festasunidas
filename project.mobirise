@@ -3,7 +3,7 @@
     "name": "Festas unidas",
     "currentPage": "bandas.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 84,
+    "uniqCompNum": 94,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": []
@@ -1503,6 +1503,46 @@
           ],
           "_name": "msg-box1",
           "_anchor": "msg-box1-29"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Saiba mais sobre a banda:.",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2l"
         },
         {
           "_params": {
