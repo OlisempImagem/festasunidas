@@ -3,7 +3,7 @@
     "name": "Festas unidas",
     "currentPage": "bandas.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 94,
+    "uniqCompNum": 131,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": []
@@ -48,171 +48,83 @@
           "_anchor": "footer1-z"
         },
         {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html#content4-28\" data-toolbar=\"-mbrBtnMove\">Voltar</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3h"
+        },
+        {
           "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#333333",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
-            "fontColor": "#ffffff"
+            "showMeta": false
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Fornecedores:<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bandas.html#msg-box1-29\" aria-expanded=\"true\">Banda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"buffet.html#wowslider-1i\" aria-expanded=\"false\">Buffet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cerimonial.html#wowslider-1q\" aria-expanded=\"false\">Cerimonial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoradores.html#wowslider-1u\" aria-expanded=\"false\">Decoradores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fotografos.html#wowslider-1y\" aria-expanded=\"false\">Fotografos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"som e iluminação.html#wowslider-26\" aria-expanded=\"false\">Som e iluminação</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "logo": {
+          "title": "Cupons de descontos",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3i"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icone-192x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Digage",
-              "link": "https://mobirise.com",
-              "title": "Digage"
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Escolha uma categoria !</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-10"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "animType": "domino",
-            "theme": "animated",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide3-1-1600x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide3.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip3.jpg",
-                "title": "title 1",
-                "text": "text 1",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide2-1600x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide1-2-1600x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3"
-              }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": true,
-            "responsive": "2",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "captionsEffect": "slide",
-            "showBullets": true,
-            "bgColor": "#ffffff",
-            "timeout": 2,
-            "duration": 2,
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
-          },
-          "articleLayout": false,
-          "alias": "wowslider",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-11"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Contato",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>",
-          "form": {
-            "action": "olisemp@hotmail.com",
-            "alerts": {
-              "success": "Entraremos em contato!"
+              "src": "@PROJECT_PATH@/assets/images/maxresdefault-1280x720.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Telefone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
+          "text": "Informe este código na solicitação do orçamento",
           "_tags": [
             "Theme"
           ],
-          "_name": "form1",
-          "_anchor": "form1-12"
+          "_name": "image2",
+          "_anchor": "image2-3d",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/images-331x152.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-3e"
         }
       ]
     },
@@ -247,121 +159,40 @@
         },
         {
           "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
             },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
+            ".mbr-article": {
+              "color": "#fff"
             }
           },
           "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#333333",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "fontColor": "#ffffff"
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Fornecedores:<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bandas.html#msg-box1-29\" aria-expanded=\"true\">Banda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"buffet.html#wowslider-1i\" aria-expanded=\"false\">Buffet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cerimonial.html#wowslider-1q\" aria-expanded=\"false\">Cerimonial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoradores.html#wowslider-1u\" aria-expanded=\"false\">Decoradores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fotografos.html#wowslider-1y\" aria-expanded=\"false\">Fotografos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"som e iluminação.html#wowslider-26\" aria-expanded=\"false\">Som e iluminação</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icone-192x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Digage",
-              "link": "https://mobirise.com",
-              "title": "Digage"
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Escolha uma categoria !</a>",
+          "title": "Workshop",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Voltar</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-14"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "animType": "domino",
-            "theme": "animated",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide3-1-1600x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide3.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip3.jpg",
-                "title": "title 1",
-                "text": "text 1",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide2-1600x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide1-2-1600x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3"
-              }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": true,
-            "responsive": "2",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "captionsEffect": "slide",
-            "showBullets": true,
-            "bgColor": "#ffffff",
-            "timeout": 2,
-            "duration": 2,
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
-          },
-          "articleLayout": false,
-          "alias": "wowslider",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-15"
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-3l"
         },
         {
           "_params": {
@@ -380,7 +211,7 @@
           "title": "Contato",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>",
           "form": {
-            "action": "olisemp@hotmail.com",
+            "action": "contato@digage.com.br",
             "alerts": {
               "success": "Entraremos em contato!"
             },
@@ -402,7 +233,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Informe o workshop que deseja participar"
               }
             }
           },
@@ -445,121 +276,40 @@
         },
         {
           "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
             },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
+            ".mbr-article": {
+              "color": "#fff"
             }
           },
           "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#333333",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "fontColor": "#ffffff"
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Fornecedores:<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bandas.html#msg-box1-29\" aria-expanded=\"true\">Banda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"buffet.html#wowslider-1i\" aria-expanded=\"false\">Buffet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cerimonial.html#wowslider-1q\" aria-expanded=\"false\">Cerimonial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoradores.html#wowslider-1u\" aria-expanded=\"false\">Decoradores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fotografos.html#wowslider-1y\" aria-expanded=\"false\">Fotografos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"som e iluminação.html#wowslider-26\" aria-expanded=\"false\">Som e iluminação</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icone-192x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Digage",
-              "link": "https://mobirise.com",
-              "title": "Digage"
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Escolha uma categoria !</a>",
+          "title": "PRE MADE BLOCKS",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Voltar</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-18"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "animType": "domino",
-            "theme": "animated",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide3-1-1600x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide3.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip3.jpg",
-                "title": "title 1",
-                "text": "text 1",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide2-1600x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide1-2-1600x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3"
-              }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": true,
-            "responsive": "2",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "captionsEffect": "slide",
-            "showBullets": true,
-            "bgColor": "#ffffff",
-            "timeout": 2,
-            "duration": 2,
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
-          },
-          "articleLayout": false,
-          "alias": "wowslider",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-19"
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-3m"
         },
         {
           "_params": {
@@ -575,10 +325,10 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Contato",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>",
+          "title": "Fale conosco.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contato</a>",
           "form": {
-            "action": "olisemp@hotmail.com",
+            "action": "contato@digage.com.br",
             "alerts": {
               "success": "Entraremos em contato!"
             },
@@ -600,7 +350,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Sua opnião é importante para nós!"
               }
             }
           },
@@ -612,831 +362,11 @@
         }
       ]
     },
-    "decoradores.html": {
-      "settings": {
-        "title": "Decoradores",
-        "meta_descr": "Decoradores",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 5
-      },
-      "components": [
-        {
-          "_name": "menu1"
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "_anchor": "footer1-1s"
-        },
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#333333",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Fornecedores:<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bandas.html#msg-box1-29\" aria-expanded=\"true\">Banda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"buffet.html#wowslider-1i\" aria-expanded=\"false\">Buffet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cerimonial.html#wowslider-1q\" aria-expanded=\"false\">Cerimonial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoradores.html#wowslider-1u\" aria-expanded=\"false\">Decoradores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fotografos.html#wowslider-1y\" aria-expanded=\"false\">Fotografos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"som e iluminação.html#wowslider-26\" aria-expanded=\"false\">Som e iluminação</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icone-192x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Digage",
-              "link": "https://mobirise.com",
-              "title": "Digage"
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Escolha uma categoria !</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-1t"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "animType": "blur",
-            "theme": "animated",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-4-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-4-72x48.png",
-                "title": "title 1",
-                "text": "text 1",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-72x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-2-72x48.png",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
-              }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": true,
-            "responsive": "2",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "captionsEffect": "slide",
-            "showBullets": true,
-            "bgColor": "#ffffff",
-            "timeout": 2,
-            "duration": 2,
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
-          },
-          "articleLayout": false,
-          "alias": "wowslider",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-1u"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Contato",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contato</a>",
-          "form": {
-            "action": "olisemp@hotmail.com",
-            "alerts": {
-              "success": "Entraremos em contato!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Telefone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".mbr-header__text": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          },
-          "_anchor": "form1-1v"
-        }
-      ]
-    },
-    "cerimonial.html": {
-      "settings": {
-        "title": "Cerimonial",
-        "meta_descr": "Cerimonial",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 4
-      },
-      "components": [
-        {
-          "_name": "menu1"
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "_anchor": "footer1-1o"
-        },
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#333333",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Fornecedores:<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bandas.html#msg-box1-29\" aria-expanded=\"true\">Banda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"buffet.html#wowslider-1i\" aria-expanded=\"false\">Buffet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cerimonial.html#wowslider-1q\" aria-expanded=\"false\">Cerimonial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoradores.html#wowslider-1u\" aria-expanded=\"false\">Decoradores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fotografos.html#wowslider-1y\" aria-expanded=\"false\">Fotografos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"som e iluminação.html#wowslider-26\" aria-expanded=\"false\">Som e iluminação</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icone-192x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Digage",
-              "link": "https://mobirise.com",
-              "title": "Digage"
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Escolha uma categoria !</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-1p"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "animType": "blur",
-            "theme": "animated",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-4-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-4-72x48.png",
-                "title": "title 1",
-                "text": "text 1",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-72x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-2-72x48.png",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
-              }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": true,
-            "responsive": "2",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "captionsEffect": "slide",
-            "showBullets": true,
-            "bgColor": "#ffffff",
-            "timeout": 2,
-            "duration": 2,
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
-          },
-          "articleLayout": false,
-          "alias": "wowslider",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-1q"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Contato",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contato</a>",
-          "form": {
-            "action": "olisemp@hotmail.com",
-            "alerts": {
-              "success": "Entraremos em contato!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Telefone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".mbr-header__text": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          },
-          "_anchor": "form1-1r"
-        }
-      ]
-    },
-    "fotografos.html": {
-      "settings": {
-        "title": "Fotografos",
-        "meta_descr": "Fotografos",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 6
-      },
-      "components": [
-        {
-          "_name": "menu1"
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "_anchor": "footer1-1w"
-        },
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#333333",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Fornecedores:<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bandas.html#msg-box1-29\" aria-expanded=\"true\">Banda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"buffet.html#wowslider-1i\" aria-expanded=\"false\">Buffet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cerimonial.html#wowslider-1q\" aria-expanded=\"false\">Cerimonial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoradores.html#wowslider-1u\" aria-expanded=\"false\">Decoradores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fotografos.html#wowslider-1y\" aria-expanded=\"false\">Fotografos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"som e iluminação.html#wowslider-26\" aria-expanded=\"false\">Som e iluminação</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icone-192x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Digage",
-              "link": "https://mobirise.com",
-              "title": "Digage"
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Escolha uma categoria !</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-1x"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "animType": "blur",
-            "theme": "animated",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-4-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-4-72x48.png",
-                "title": "title 1",
-                "text": "text 1",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-72x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-2-72x48.png",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
-              }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": true,
-            "responsive": "2",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "captionsEffect": "slide",
-            "showBullets": true,
-            "bgColor": "#ffffff",
-            "timeout": 2,
-            "duration": 2,
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
-          },
-          "articleLayout": false,
-          "alias": "wowslider",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-1y"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Contato",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contato</a>",
-          "form": {
-            "action": "olisemp@hotmail.com",
-            "alerts": {
-              "success": "Entraremos em contato!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Telefone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".mbr-header__text": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          },
-          "_anchor": "form1-1z"
-        }
-      ]
-    },
-    "buffet.html": {
-      "settings": {
-        "title": "Buffet",
-        "meta_descr": "Buffet",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 3
-      },
-      "components": [
-        {
-          "_name": "menu1"
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "_anchor": "footer1-1g"
-        },
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#333333",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Fornecedores:<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bandas.html#msg-box1-29\" aria-expanded=\"true\">Banda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"buffet.html#wowslider-1i\" aria-expanded=\"false\">Buffet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cerimonial.html#wowslider-1q\" aria-expanded=\"false\">Cerimonial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoradores.html#wowslider-1u\" aria-expanded=\"false\">Decoradores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fotografos.html#wowslider-1y\" aria-expanded=\"false\">Fotografos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"som e iluminação.html#wowslider-26\" aria-expanded=\"false\">Som e iluminação</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icone-192x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Digage",
-              "link": "https://mobirise.com",
-              "title": "Digage"
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Escolha uma categoria !</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-1h"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "animType": "blur",
-            "theme": "animated",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-4-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-4-72x48.png",
-                "title": "title 1",
-                "text": "text 1",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-72x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-2-72x48.png",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
-              }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": true,
-            "responsive": "2",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "captionsEffect": "slide",
-            "showBullets": true,
-            "bgColor": "#ffffff",
-            "timeout": 2,
-            "duration": 2,
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
-          },
-          "articleLayout": false,
-          "alias": "wowslider",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-1i"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Contato",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contato</a>",
-          "form": {
-            "action": "olisemp@hotmail.com",
-            "alerts": {
-              "success": "Entraremos em contato!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Telefone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".mbr-header__text": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          },
-          "_anchor": "form1-1j"
-        }
-      ]
-    },
     "bandas.html": {
       "settings": {
         "title": "Bandas",
         "meta_descr": "Bandas",
-        "header_custom": "",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-46433634-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-46433634-1');\n</script>\n",
         "footer_custom": "",
         "html_before": "",
         "order": 1
@@ -1480,7 +410,7 @@
             "showTitle": false,
             "showText": true,
             "showButtons": true,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -1496,7 +426,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Cique para voltar",
-          "text": "Entre em contato&nbsp;<br><i>Para receber orçament</i>o",
+          "text": "Conheça quem poderá animar sua festa.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html#content4-28\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
           "_tags": [
             "Theme"
@@ -1510,7 +440,8 @@
             ".mbr-header .mbr-header__text": {
               "color": "#252525",
               "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px"
             },
             ".mbr-article": {
               "color": "#252525"
@@ -1535,9 +466,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Saiba mais sobre a banda:.",
+          "title": "Banda:<br>Descrição:",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
             "Theme"
           ],
@@ -1622,7 +553,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Contato",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contato</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Solicite um orçamento</a>",
           "form": {
             "action": "contato@digage.com.br",
             "alerts": {
@@ -1646,7 +577,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Informe o nome da empresa que deseja contratar."
+                "customTitle": "Neste campo informe a banda que deseja contratar e a data do evento"
               }
             }
           },
@@ -1698,7 +629,11 @@
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
-            ".navbar-brand a": {},
+            ".navbar-brand a": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "46px"
+            },
             ".nav .link, .dropdown-item": {
               "font-size": "1.2em",
               "color": "#ffffff",
@@ -1730,7 +665,7 @@
             },
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Fornecedores:<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bandas.html#msg-box1-29\" aria-expanded=\"true\">Banda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"buffet.html#wowslider-1i\" aria-expanded=\"false\">Buffet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cerimonial.html#wowslider-1q\" aria-expanded=\"false\">Cerimonial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoradores.html#wowslider-1u\" aria-expanded=\"false\">Decoradores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fotografos.html#wowslider-1y\" aria-expanded=\"false\">Fotografos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"som e iluminação.html#wowslider-26\" aria-expanded=\"false\">Som e iluminação</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Fornecedores:<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bandas.html#msg-box1-29\" aria-expanded=\"false\">Bandas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"buffet.html#msg-box1-2s\" aria-expanded=\"false\">Buffet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cerimonial.html#msg-box1-2x\" aria-expanded=\"false\">Cerimonial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoradores.html#msg-box1-32\" aria-expanded=\"false\">Decoradores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fotografos.html#msg-box1-37\" aria-expanded=\"false\">Fotografos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"someiluminacao.html#msg-box1-2n\" aria-expanded=\"false\">Som e iluminação</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1742,7 +677,7 @@
               "title": "Digage"
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Escolha uma categoria !</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Festas unidas</a>",
           "_tags": [
             "Theme"
           ],
@@ -1819,7 +754,7 @@
           },
           "title2": "RESPONSIVE",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"buffet.html#wowslider-1i\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Buffet</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"buffet.html#msg-box1-2s\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Buffet</a>",
           "media3": {
             "image": {
               "active": true,
@@ -1839,7 +774,7 @@
           },
           "title3": "WEB FONTS",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"cerimonial.html#wowslider-1q\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Cerimonial</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Cerimonial.html#msg-box1-2x\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Cerimonial</a>",
           "media4": {
             "image": {
               "active": true,
@@ -1859,7 +794,7 @@
           },
           "title4": "UNLIMITED WEBSITES",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Decoradores</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"decoradores.html#msg-box1-32\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Decoradores</a>",
           "media5": {
             "image": {
               "active": true,
@@ -1879,7 +814,7 @@
           },
           "title5": "TRENDY WEBSITE BLOCKS",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Fotografo</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"fotografos.html#msg-box1-37\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Fotografo</a>",
           "media6": {
             "image": {
               "active": true,
@@ -1899,17 +834,17 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Som e Iluminação</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"someiluminacao.html#msg-box1-2n\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Som e Iluminação</a>",
           "_name": "content4",
           "_anchor": "content4-28"
         }
       ]
     },
-    "som e iluminação.html": {
+    "someiluminacao.html": {
       "settings": {
-        "title": "Som e iluminação",
-        "meta_descr": "som e iluminação",
-        "header_custom": "",
+        "title": "Som e iluminacao",
+        "meta_descr": "Som e iluminação",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-46433634-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-46433634-1');\n</script>\n",
         "footer_custom": "",
         "html_before": "",
         "order": 2
@@ -1932,79 +867,107 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "_anchor": "footer1-24"
+          "_anchor": "footer1-2m"
         },
         {
           "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff",
+              "font-size": "12px",
+              "text-align": "right"
             },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
+            ".mbr-article": {
+              "color": "#fff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "19px",
+              "text-align": "right"
             }
           },
           "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#333333",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "fontColor": "#ffffff"
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Fornecedores:<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bandas.html#msg-box1-29\" aria-expanded=\"true\">Banda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"buffet.html#wowslider-1i\" aria-expanded=\"false\">Buffet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cerimonial.html#wowslider-1q\" aria-expanded=\"false\">Cerimonial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoradores.html#wowslider-1u\" aria-expanded=\"false\">Decoradores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fotografos.html#wowslider-1y\" aria-expanded=\"false\">Fotografos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"som e iluminação.html#wowslider-26\" aria-expanded=\"false\">Som e iluminação</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icone-192x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Digage",
-              "link": "https://mobirise.com",
-              "title": "Digage"
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Escolha uma categoria !</a>",
+          "title": "Cique para voltar",
+          "text": "Vamos iluminar sua Festa",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html#content4-28\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-25"
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2n"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Empresa:<br>Descrição:",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"someiluminacao.html#form1-2q\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2o"
         },
         {
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "animType": "blur",
             "theme": "animated",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-4-1600x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-1573x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-4-72x48.png",
+                "src": "@PROJECT_PATH@/assets/images/images-271x186.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/images-69x48.png",
                 "title": "title 1",
                 "text": "text 1",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1600x1066.jpg",
@@ -2017,11 +980,11 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1600x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/download-1600x960.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-2-72x48.png",
+                "src": "@PROJECT_PATH@/assets/images/download-290x174.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/download-80x48.png",
                 "title": "title 3",
                 "text": "text 3",
                 "active": false
@@ -2030,7 +993,7 @@
             "fullScreen": true,
             "showCaptions": false,
             "hideControls": true,
-            "responsive": "2",
+            "responsive": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
             "captionsEffect": "slide",
@@ -2051,13 +1014,13 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-26"
+          "_anchor": "wowslider-2p"
         },
         {
           "_params": {
             "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -2068,9 +1031,9 @@
             "overlayOpacity": 0.5
           },
           "title": "Contato",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contato</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Solicite um orçamento</a>",
           "form": {
-            "action": "olisemp@hotmail.com",
+            "action": "contato@digage.com.br",
             "alerts": {
               "success": "Entraremos em contato!"
             },
@@ -2092,7 +1055,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Neste campo informe da empresa que deseja contratar e a data do evento"
               }
             }
           },
@@ -2106,7 +1069,939 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           },
-          "_anchor": "form1-27"
+          "_anchor": "form1-2q"
+        }
+      ]
+    },
+    "buffet.html": {
+      "settings": {
+        "title": "Buffet",
+        "meta_descr": "Buffet",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-46433634-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-46433634-1');\n</script>\n",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_name": "menu1"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "_anchor": "footer1-2r"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff",
+              "font-size": "12px",
+              "text-align": "right"
+            },
+            ".mbr-article": {
+              "color": "#fff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "19px",
+              "text-align": "right"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Cique para voltar",
+          "text": "Mais Sabor&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html#content4-28\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2s"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Empresa:<br>Descrição:",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"buffet.html#form1-2v\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2t"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "animType": "blur",
+            "theme": "animated",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/images-2-1600x1064.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/images%20(2)-275x183.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/images-2-72x48.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/images-3-1600x873.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/images%20(3)-304x166.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/images-3-85x46.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/images-4-1600x942.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/images%20(4)-292x172.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/images-4-81x48.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": true,
+            "responsive": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "captionsEffect": "slide",
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1600",
+            "height": "1080"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-2u"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contato",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Solicite um orçamento</a>",
+          "form": {
+            "action": "contato@digage.com.br",
+            "alerts": {
+              "success": "Entraremos em contato!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telefone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Neste campo informe da empresa que deseja contratar e a data do evento"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "form1-2v"
+        }
+      ]
+    },
+    "Cerimonial.html": {
+      "settings": {
+        "title": "Cerimonial",
+        "meta_descr": "Cerimonial",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-46433634-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-46433634-1');\n</script>\n",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_name": "menu1"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "_anchor": "footer1-2w"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff",
+              "font-size": "12px",
+              "text-align": "right"
+            },
+            ".mbr-article": {
+              "color": "#fff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "19px",
+              "text-align": "right"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Cique para voltar",
+          "text": "Cerimonial",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html#content4-28\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2x"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Empresa:<br>Descrição:",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Cerimonial.html#form1-30\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2y"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "animType": "blur",
+            "theme": "animated",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/cerimonialista-para-casamentos-1244x1080.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/cerimonialista-para-casamentos-749x650.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/cerimonialista-para-casamentos-55x48.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/download-1600x1064.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/download-275x183.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/download-72x48.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/planning-1-1600x1067.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/planning-1600x1067.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/planning-71x48.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": true,
+            "responsive": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "captionsEffect": "slide",
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1600",
+            "height": "1080"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-2z"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contato",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Solicite um orçamento</a>",
+          "form": {
+            "action": "contato@digage.com.br",
+            "alerts": {
+              "success": "Entraremos em contato!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telefone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Neste campo informe da empresa que deseja contratar e a data do evento"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "form1-30"
+        }
+      ]
+    },
+    "decoradores.html": {
+      "settings": {
+        "title": "Decoradores",
+        "meta_descr": "Decoradores",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-46433634-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-46433634-1');\n</script>\n",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_name": "menu1"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "_anchor": "footer1-31"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff",
+              "font-size": "12px",
+              "text-align": "right"
+            },
+            ".mbr-article": {
+              "color": "#fff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "19px",
+              "text-align": "right"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Cique para voltar",
+          "text": "Decoradores",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html#content4-28\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-32"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Empresa:<br>Descrição:",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"decoradores.html#form1-35\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-33"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "animType": "blur",
+            "theme": "animated",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/decoracao-casamento-flor-e-forma-4-1600x1021.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/decoracao-casamento-flor-e-forma-4-600x383.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/decoracao-casamento-flor-e-forma-4-75x47.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-1600x1062.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/decora%C3%A7%C3%A3o-para-casamento-em-branco-3-800x531.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-72x48.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fabulous-table-arrangement-ideas-for-wedding-top-5-wedding-table-decor-ideas-1080x1080.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/fabulous-table-arrangement-ideas-for-wedding-top-5-wedding-table-decor-ideas-630x630.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/fabulous-table-arrangement-ideas-for-wedding-top-5-wedding-table-decor-ideas-48x48.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": true,
+            "responsive": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "captionsEffect": "slide",
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1600",
+            "height": "1080"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-34"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contato",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Solicite um orçamento</a>",
+          "form": {
+            "action": "contato@digage.com.br",
+            "alerts": {
+              "success": "Entraremos em contato!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telefone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Neste campo informe da empresa que deseja contratar e a data do evento"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "form1-35"
+        }
+      ]
+    },
+    "fotografos.html": {
+      "settings": {
+        "title": "Fotografos",
+        "meta_descr": "Fotografos",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-46433634-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-46433634-1');\n</script>\n",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 6
+      },
+      "components": [
+        {
+          "_name": "menu1"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "_anchor": "footer1-36"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff",
+              "font-size": "12px",
+              "text-align": "right"
+            },
+            ".mbr-article": {
+              "color": "#fff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "19px",
+              "text-align": "right"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Cique para voltar",
+          "text": "Fotografos",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html#content4-28\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-37"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Empresa:<br>Descrição:",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"fotografos.html#form1-3a\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-38"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "animType": "blur",
+            "theme": "animated",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/casamento-1-1582x1080.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/casamento-1-960x655.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/casamento-1-70x48.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fotografia-de-casamento-melhores-fotografos-do-nordeste-abre-1440x1080.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/fotografia-de-casamento-melhores-fotografos-do-nordeste-abre-800x600.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/fotografia-de-casamento-melhores-fotografos-do-nordeste-abre-64x48.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-6-1-1600x732.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/img-6-1-2000x915.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/img-6-1-85x38.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": true,
+            "responsive": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "captionsEffect": "slide",
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1600",
+            "height": "1080"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-39"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contato",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Solicite um orçamento</a>",
+          "form": {
+            "action": "contato@digage.com.br",
+            "alerts": {
+              "success": "Entraremos em contato!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telefone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Neste campo informe da empresa que deseja contratar e a data do evento"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "form1-3a"
         }
       ]
     }
