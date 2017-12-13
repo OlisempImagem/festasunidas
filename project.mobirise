@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "bandas.html",
+    "currentPage": "principal.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 131,
     "versionPublish": "4.5.2",
@@ -651,7 +651,7 @@
             }
           },
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
@@ -693,7 +693,7 @@
             "showTitles": false,
             "showCaptions": false,
             "showButtons": true,
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "0",
             "columns": "6",
             "bgImageRadio": true,
