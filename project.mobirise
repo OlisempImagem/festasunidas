@@ -2443,7 +2443,7 @@
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Nome*"
               },
               "email": {
                 "visible": true,
@@ -2492,7 +2492,7 @@
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Nome*"
               },
               "email": {
                 "visible": true,
@@ -2506,7 +2506,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Envia seas dúvidas"
+                "customTitle": "Envie suas dúvidas"
               }
             }
           },
