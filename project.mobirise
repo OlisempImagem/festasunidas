@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "faleconosco.html",
+    "currentPage": "bandas.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 194,
     "versionPublish": "4.5.2",
@@ -286,7 +286,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Neste campo informe a banda que deseja contratar e a data do evento e cupom de desconco."
+                "customTitle": "Neste campo informe a Empresa que deseja contratar e a data do evento e cupom de desconco."
               }
             }
           },
