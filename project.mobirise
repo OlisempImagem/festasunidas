@@ -2062,6 +2062,9 @@
             ".mbr-article": {
               "color": "#ffffff",
               "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#f7da64"
             }
           },
           "headerAlign": "left",
