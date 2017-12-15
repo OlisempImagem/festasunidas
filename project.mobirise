@@ -2394,7 +2394,7 @@
             }
           },
           "title": "",
-          "text": "<p>&nbsp;<i>Você pode entrar em contato; é Fácil!</i></p><p><i>Se for fornecedor e quiser anunciar, clique no botão &nbsp;“Anuncie”. </i></p><p><i>Caso seu interesse seja em fazer um levantamento de valores, clique no botão “Orçamentos”.</i></p><p><i>Por fim, se quiser fazer sugestões, criticas ou elogios, clique no botão &nbsp;“fale&nbsp;</i><i style=\"text-align: center;\">conosco”</i></p>",
+          "text": "<p>Aqui você pode nos deixar um feedback, sugestões ou reclamações, dos nossos serviços e dos serviços prestados por nossos parceiros, basta clicar em Fale Conosco.</p><p>Se deseja anunciar no Aplicativo Festas Unidas basta nos enviar uma solicitação em Anuncie Aqui.</p><p><span style=\"text-align: center;\">Sua opinião pra nós vale muito!</span><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2414,7 +2414,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3w\" data-toolbar=\"-mbrBtnMove\">Anuncie / Orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3x\" data-toolbar=\"-mbrBtnMove\">Fale Conosco</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3w\" data-toolbar=\"-mbrBtnMove\">Anuncie&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3x\" data-toolbar=\"-mbrBtnMove\">Fale Conosco</a> ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-3v"
         },
