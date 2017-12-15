@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "descontos.html",
+    "currentPage": "principal.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 194,
     "versionPublish": "4.5.2",
@@ -341,19 +341,19 @@
             ".navbar-brand a": {
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "16px"
+              "font-size": "18px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
+              "font-size": "0.8em",
               "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-family": "'Open Sans', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#3d8eb9"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#b7b7b7"
+              "background": "#3882aa"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -365,8 +365,8 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
-            "bgColor": "#c1c1c1",
-            "fontSize": "1",
+            "bgColor": "#3d8eb9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -2187,7 +2187,7 @@
           "_params": {
             "showTitle": true,
             "showText": false,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -2205,7 +2205,7 @@
           },
           "title": "&nbsp;Confira os workshops disponíveis para não ficar fora de nenhum!",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Voltar</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"3\" data-toolbar=\"-mbrBtnMove\">Voltar</a>",
           "_tags": [
             "Theme"
           ],
@@ -2414,7 +2414,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3w\" data-toolbar=\"-mbrBtnMove\">Anuncie / orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3x\" data-toolbar=\"-mbrBtnMove\">Fale conosco</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"principal.html\" data-toolbar=\"-mbrBtnMove\">Voltar</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3w\" data-toolbar=\"-mbrBtnMove\">Anuncie / orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3x\" data-toolbar=\"-mbrBtnMove\">Fale conosco</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"tel:+55 17 11111-1111\" data-toolbar=\"-mbrBtnMove\">Ligue para gente</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-3v"
         },

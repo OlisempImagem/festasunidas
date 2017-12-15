@@ -42,22 +42,22 @@
 }
 #dropdown-menu-21 .navbar-brand a {
   font-family: 'Slabo 27px', serif;
-  font-size: 16px;
+  font-size: 18px;
 }
 #dropdown-menu-21 .nav .link,
 #dropdown-menu-21 .dropdown-item {
-  font-size: 1em;
+  font-size: 0.8em;
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
 }
 #dropdown-menu-21 .navbar,
 #dropdown-menu-21 .dropdown-menu {
-  background: #c1c1c1;
+  background: #3d8eb9;
 }
 #dropdown-menu-21 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-21 .dropdown-menu a:hover,
 #dropdown-menu-21 .dropdown-menu a:focus {
-  background: #b7b7b7;
+  background: #3882aa;
 }
 #dropdown-menu-21 .navbar-toggler {
   color: #ffffff;
