@@ -4,17 +4,34 @@
 #image2-3d SMALL {
   text-align: center;
 }
+
 #msg-box1-3l .mbr-header .mbr-header__text {
   color: #fff;
+  font-size: 15px;
+  text-align: right;
 }
 #msg-box1-3l .mbr-article {
   color: #fff;
 }
-#msg-box1-3m .mbr-header .mbr-header__text {
-  color: #fff;
+#msg-box2-3r .mbr-header .mbr-header__text {
+  color: #252525;
+  font-family: 'Slabo 27px', serif;
+  font-size: 13px;
 }
-#msg-box1-3m .mbr-article {
-  color: #fff;
+#msg-box2-3r .mbr-article {
+  color: #252525;
+}
+#msg-box4-3v .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-3v .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-3v .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-3v .mbr-article P {
+  text-align: center;
 }
 
 
@@ -38,6 +55,9 @@
 #msg-box2-2l .mbr-article {
   color: #252525;
 }
+#social-buttons2-3n .mbr-header__text {
+  font-size: 19px;
+}
 #form1-23 .mbr-header__text {
   font-family: 'Lato', sans-serif;
 }
@@ -48,11 +68,11 @@
 }
 #dropdown-menu-21 .navbar-brand a {
   font-family: 'Slabo 27px', serif;
-  font-size: 46px;
+  font-size: 16px;
 }
 #dropdown-menu-21 .nav .link,
 #dropdown-menu-21 .dropdown-item {
-  font-size: 1.2em;
+  font-size: 4em;
   color: #ffffff;
   font-family: 'Oswald', sans-serif;
 }

@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "someiluminacao.html",
+    "currentPage": "bandas.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 131,
+    "uniqCompNum": 144,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": []
@@ -160,7 +160,9 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#fff"
+              "color": "#fff",
+              "font-size": "15px",
+              "text-align": "right"
             },
             ".mbr-article": {
               "color": "#fff"
@@ -185,7 +187,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Workshop",
+          "title": "&nbsp;Confira os workshops disponíveis para não ficar fora de nenhum!",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Voltar</a>",
           "_tags": [
@@ -195,53 +197,108 @@
           "_anchor": "msg-box1-3l"
         },
         {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
           "_params": {
             "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Contato",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>",
-          "form": {
-            "action": "contato@digage.com.br",
-            "alerts": {
-              "success": "Entraremos em contato!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Telefone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Informe o workshop que deseja participar"
-              }
-            }
-          },
+          "title": "Workshop:<br>Data:<br>Descrição:<br><br><br>",
+          "text": "",
+          "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"dg\" data-toolbar=\"-mbrBtnMove\">Clique e confirme presença</a>  ",
           "_tags": [
             "Theme"
           ],
-          "_name": "form1",
-          "_anchor": "form1-16"
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-3r"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "animType": "blur",
+            "theme": "animated",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-1600x1066.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/mbr-4-72x48.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1600x1066.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/mbr-72x48.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1600x1066.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/mbr-2-72x48.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": true,
+            "responsive": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "captionsEffect": "slide",
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1600",
+            "height": "1080"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-3t"
         }
       ]
     },
@@ -275,25 +332,21 @@
           "_anchor": "footer1-17"
         },
         {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
+          "_inherit": "msg-box5",
           "_params": {
             "showTitle": false,
-            "showText": false,
+            "showMeta": false,
+            "showText": true,
             "showButtons": true,
-            "paddingTop": "0",
+            "inverse": false,
+            "imageSize": "25",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3C3C3C",
+            "bgColor": "#f97352",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -302,14 +355,52 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "PRE MADE BLOCKS",
-          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Voltar</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fale-conosco-novo2-1400x395.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "",
+          "text": "<p>&nbsp;<i>Você pode entrar em contato por 3 motivos diferentes. </i></p><p><i>Se for fornecedor e quiser anunciar, a sua aba é o “Anuncie”. </i></p><p><i>Caso seu interesse seja em fazer um levantamento de valores, sua aba será “Orçamentos”.</i></p><p><i>Por fim, se quiser fazer sugestões, criticas ou elogios, a aba é “fale\n</i></p><p><i>conosco”</i></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-3m"
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3w\" data-toolbar=\"-mbrBtnMove\">Anuncie / orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3x\" data-toolbar=\"-mbrBtnMove\">Fale conosco</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"principal.html#content4-28\" data-toolbar=\"-mbrBtnMove\">Voltar</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3v"
         },
         {
           "_params": {
@@ -325,12 +416,12 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Fale conosco.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contato</a>",
+          "title": "Anúncio<br><br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Clique aqui para confirmar</a>",
           "form": {
-            "action": "contato@digage.com.br",
+            "action": "dig.age@outlook.com",
             "alerts": {
-              "success": "Entraremos em contato!"
+              "success": "Em breve entraremos em contato!"
             },
             "fields": {
               "name": {
@@ -346,11 +437,11 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Telefone"
+                "customTitle": "Phone"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Sua opnião é importante para nós!"
+                "customTitle": "Descreva brevemente tipo de negócio."
               }
             }
           },
@@ -358,7 +449,56 @@
             "Theme"
           ],
           "_name": "form1",
-          "_anchor": "form1-1a"
+          "_anchor": "form1-3w"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Fale conosco",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>",
+          "form": {
+            "action": "contato@digage.com.br",
+            "alerts": {
+              "success": "Obrigado estaremos analisando!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-3x"
         }
       ]
     },
@@ -426,13 +566,66 @@
             "overlayOpacity": 0.5
           },
           "title": "Cique para voltar",
-          "text": "Conheça quem poderá animar sua festa.",
+          "text": "Fornecedores em ordem alfabética",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html#content4-28\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
           "_anchor": "msg-box1-29"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "animType": "blur",
+            "theme": "animated",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1600x1066.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/mbr-72x48.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1600x1066.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/mbr-2-72x48.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": true,
+            "responsive": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "captionsEffect": "slide",
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1600",
+            "height": "1080"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-22"
         },
         {
           "_inherit": "msg-box1",
@@ -477,66 +670,64 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "animType": "blur",
-            "theme": "animated",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-4-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-4-72x48.png",
-                "title": "title 1",
-                "text": "text 1",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-72x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-2-72x48.png",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
-              }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": true,
-            "responsive": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "captionsEffect": "slide",
-            "showBullets": true,
-            "bgColor": "#ffffff",
-            "timeout": 2,
-            "duration": 2,
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
-          "articleLayout": false,
-          "alias": "wowslider",
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "text2": "",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-22"
+          "_name": "contacts1",
+          "_anchor": "contacts1-3z"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Redes sociais",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-3n",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "19px"
+            }
+          }
         },
         {
           "_params": {
@@ -577,7 +768,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Neste campo informe a banda que deseja contratar e a data do evento"
+                "customTitle": "Neste campo informe a banda que deseja contratar e a data do evento e cupom de desconco."
               }
             }
           },
@@ -600,8 +791,8 @@
         "main": true,
         "title": "Principal",
         "meta_descr": "menu",
-        "header_custom": "",
-        "footer_custom": "",
+        "header_custom": "<style>\n.navbar-fixed-top  {\ntop:-70px;\nopacity:0;\n}\n</style>",
+        "footer_custom": "<script>\n /*---------------------------------------*/\n /*\tNAVIGATION AND NAVIGATION VISIBLE ON SCROLL\n /*---------------------------------------*/\n$( window ).on( \"load\", function() {\n    mainNav();\n    $(window).scroll(function() {\n        mainNav();\n    });\n    function mainNav() {\n        var top = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop;\n        if (top > 40) $('.navbar-fixed-top').stop().animate({\n            \"opacity\": '1',\n            \"top\": '0'\n        });\n        else $('.navbar-fixed-top').stop().animate({\n            \"top\": '-70',\n            \"opacity\": '0'\n        });\n\n\t}\n     });\n</script>",
         "html_before": ""
       },
       "components": [
@@ -632,10 +823,10 @@
             ".navbar-brand a": {
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "46px"
+              "font-size": "16px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
+              "font-size": "4em",
               "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
@@ -651,13 +842,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#333333",
-            "fontSize": "1.2",
+            "fontSize": "4",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -677,7 +868,7 @@
               "title": "Digage"
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Festas unidas</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Atividades e fornecedores em ordem alfabética.</a>",
           "_tags": [
             "Theme"
           ],

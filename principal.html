@@ -17,7 +17,12 @@
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
-  
+  <style>
+.navbar-fixed-top  {
+top:-70px;
+opacity:0;
+}
+</style>
 </head>
 <body>
 
@@ -42,8 +47,8 @@
         <div class="container">
 
             <div class="navbar-brand">
-                <a href="https://mobirise.com" class="navbar-logo"><img src="assets/images/icone-192x128.png" alt="Digage" title="Digage"></a>
-                <a class="text-white" href="https://mobirise.com">Festas unidas</a>
+                
+                <a class="text-white" href="https://mobirise.com">Atividades e fornecedores em ordem alfabética.</a>
             </div>
 
             <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
@@ -58,7 +63,7 @@
 
 </section>
 
-<section class="engine"><a href="https://mobirise.co/k">bootstrap templates</a></section><section class="mbr-section mbr-section--relative mbr-section--fixed-size mbr-parallax-background mbr-after-navbar" id="content4-28" data-rv-view="4" style="background-image: url(assets/images/mbr-864x1080.jpg);">
+<section class="engine"><a href="https://mobirise.co/o">bootstrap buttons</a></section><section class="mbr-section mbr-section--relative mbr-section--fixed-size mbr-parallax-background mbr-after-navbar" id="content4-28" data-rv-view="4" style="background-image: url(assets/images/mbr-864x1080.jpg);">
     <div class="mbr-overlay" style="opacity: 0.8; background-color: rgb(255, 255, 255);"></div>
     
     <div class="mbr-section__container container mbr-section__container--std-top-padding" style="padding-top: 93px;">
@@ -139,7 +144,29 @@
   <script src="assets/mobirise/js/script.js"></script>
   <script src="assets/dropdown-menu/script.js"></script>
   
-  
+  <script>
+ /*---------------------------------------*/
+ /*	NAVIGATION AND NAVIGATION VISIBLE ON SCROLL
+ /*---------------------------------------*/
+$( window ).on( "load", function() {
+    mainNav();
+    $(window).scroll(function() {
+        mainNav();
+    });
+    function mainNav() {
+        var top = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop;
+        if (top > 40) $('.navbar-fixed-top').stop().animate({
+            "opacity": '1',
+            "top": '0'
+        });
+        else $('.navbar-fixed-top').stop().animate({
+            "top": '-70',
+            "opacity": '0'
+        });
+
+	}
+     });
+</script>
 <input name="cookieData" type="hidden" data-cookie-text="Nós utilizamos cookies para que tenha melhor experiência .Leia a politica de privacidade. <a href='privacy.html'>cookie policy</a>.">
   </body>
 </html>
