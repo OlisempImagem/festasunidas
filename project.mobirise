@@ -2414,7 +2414,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3w\" data-toolbar=\"-mbrBtnMove\">Anuncie / orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3x\" data-toolbar=\"-mbrBtnMove\">Fale conosco</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3w\" data-toolbar=\"-mbrBtnMove\">Anuncie / orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3x\" data-toolbar=\"-mbrBtnMove\">Fale Conosco</a> ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-3v"
         },
@@ -2481,7 +2481,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Fale conosco",
+          "title": "Fale Conosco",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "form": {
             "action": "contato@digage.com.br",
