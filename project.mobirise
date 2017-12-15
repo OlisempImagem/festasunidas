@@ -1,20 +1,23 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "faleconosco.html",
+    "currentPage": "bandas.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 194,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
-        "#fc002f"
+        "#fc002f",
+        "#e7dcba",
+        "#dcc990",
+        "#d7c99c"
       ]
     },
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/logo2-128x85.png",
+    "favicon": "@PROJECT_PATH@/assets/images/icone-128x85.png",
     "noImageResize": "",
     "cookiesAlert": "Nós utilizamos cookies para que tenha melhor experiência .Leia a politica de privacidade. <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-46433634-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-46433634-1');\r\n</script>\r\n"
@@ -286,7 +289,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Neste campo informe a Empresa que deseja contratar e a data do evento e cupom de desconco."
+                "customTitle": "Neste campo informe a Empresa que deseja contratar, e a data do evento e cupom de desconto."
               }
             }
           },
@@ -350,10 +353,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#3d8eb9"
+              "background": "#000000"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#3882aa"
+              "background": "#000000"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -365,7 +368,7 @@
             "hideButtons": true,
             "sticky": false,
             "transparent": false,
-            "bgColor": "#3d8eb9",
+            "bgColor": "#000000",
             "fontSize": "0.8",
             "fontName": {
               "name": "Open Sans",
@@ -405,11 +408,11 @@
             "paddingTop": "3",
             "paddingBottom": "0",
             "columns": "6",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-864x1080.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1739,7 +1742,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3C3C3C",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2013,7 +2016,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fc002f",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2027,7 +2030,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/images-2-331x152.jpg",
+              "src": "@PROJECT_PATH@/assets/images/icone-1400x933.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -2048,7 +2051,7 @@
             }
           },
           "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Atenção: <i><b>Os cupons aqui mostrados e suas aplicações são de responsabilidade do Fornecedor </b></i>parceiro. Anote o número do cupom e informe na solicitação de orçamento.</p><p>Clique no cupom para ser direcionado a fornecedor parceiro!</p>",
+          "text": "Os Códigos Promocionais aqui mostrados, assim como suas disponibilidades, são de responsabilidade de cada Fornecedor/Parceiro. Para usufruir dos descontos, veja as condições estabelecidas por cada Fornecedor e seu Código Promocional. Anote ou selecione e copie esse código e clique no ícone do Festas Unidas logo abaixo de cada promoção. Você será redirecionado a aba da respectiva Empresa e agora é só Solicitar um Orçamento e colar ou mencionar o código no campo de texto.",
           "_tags": [
             "Theme"
           ],
@@ -2061,10 +2064,13 @@
             },
             ".mbr-article": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "14px"
             },
             ".mbr-article P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             }
           },
           "headerAlign": "left",
@@ -2088,7 +2094,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#27aae0",
+            "bgColor": "#e7dcba",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2307,7 +2313,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Workshop:<br>Data:<br>Descrição:<br><br><br>",
+          "title": "Workshop:<br>Data:<br>Descrição:<br>Proficionais:<br><br><br>",
           "text": "",
           "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"dg\" data-toolbar=\"-mbrBtnMove\">Clique e confirme presença</a>  ",
           "_tags": [
@@ -2362,7 +2368,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColor": "#d7c99c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
