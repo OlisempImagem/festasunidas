@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "bandas.html",
+    "currentPage": "faleconosco.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 194,
     "versionPublish": "4.5.2",
@@ -10,7 +10,8 @@
         "#fc002f",
         "#e7dcba",
         "#dcc990",
-        "#d7c99c"
+        "#d7c99c",
+        "#3c3c3c"
       ]
     },
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
@@ -2016,7 +2017,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#3c3c3c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2368,7 +2369,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#d7c99c",
+            "bgColor": "#3c3c3c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2379,7 +2380,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/fale-conosco-novo2-1400x395.png",
@@ -2395,8 +2395,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "communication-phone",
+              "family": "Material-Design-Icons",
               "link": "",
-              "size": 0
+              "size": "200",
+              "active": true
             }
           },
           "title": "",
