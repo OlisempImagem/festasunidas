@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "faleconosco.html",
+    "currentPage": "descontos.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 194,
     "versionPublish": "4.5.2",
@@ -2028,7 +2028,7 @@
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/images-2-331x152.jpg",
-              "link": "bandas.html#wowslider-22",
+              "link": "",
               "alt": "",
               "title": ""
             },
@@ -2121,7 +2121,7 @@
             }
           },
           "title": "Nome da empresa.",
-          "text": "<p>Comdições do cupom desconto.</p>",
+          "text": "<p>Condições do cupom desconto.</p>",
           "_tags": [
             "Theme"
           ],
