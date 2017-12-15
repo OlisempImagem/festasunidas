@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "bandas.html",
+    "currentPage": "faleconosco.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 194,
     "versionPublish": "4.5.2",
@@ -2432,7 +2432,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Anúncie<br><br>",
+          "title": "Anuncie<br><br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Clique aqui para confirmar</a>",
           "form": {
             "action": "dig.age@outlook.com",
@@ -2502,11 +2502,11 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "Telefone"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Envia seas dúvidas"
               }
             }
           },
