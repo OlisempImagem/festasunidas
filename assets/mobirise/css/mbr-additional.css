@@ -208,6 +208,9 @@
   font-family: 'Lato', sans-serif;
 }
 
+#undefined P {
+  color: #f97352;
+}
 #msg-box4-5c .mbr-header__text {
   color: #ffffff;
 }

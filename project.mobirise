@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "descontos.html",
+    "currentPage": "faleconosco.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 205,
     "versionPublish": "4.5.2",
@@ -1924,7 +1924,12 @@
       },
       "components": [
         {
-          "_name": "menu1"
+          "_name": "menu1",
+          "_styles": {
+            "P": {
+              "color": "#f97352"
+            }
+          }
         },
         {
           "_name": "footer1",
@@ -1972,9 +1977,10 @@
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/icone-1400x933.png",
-              "link": "",
+              "link": "menu02.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1992,7 +1998,7 @@
             }
           },
           "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "Os Códigos Promocionais aqui mostrados, assim como suas disponibilidades, são de responsabilidade de cada Fornecedor/Parceiro. Para usufruir dos descontos, veja as condições estabelecidas por cada Fornecedor e seu Código Promocional. Anote ou selecione e copie esse código e clique no ícone do Festas Unidas logo abaixo de cada promoção. Você será redirecionado a aba da respectiva Empresa e agora é só Solicitar um Orçamento e colar ou mencionar o código no campo de texto.",
+          "text": "<p>Os Códigos Promocionais aqui mostrados, assim como suas disponibilidades, são de responsabilidade de cada Fornecedor/Parceiro. Para usufruir dos descontos, veja as condições estabelecidas por cada Fornecedor e seu Código Promocional. Anote ou selecione e copie esse código e clique no ícone do Festas Unidas logo abaixo de cada promoção. Você será redirecionado a aba da respectiva Empresa e agora é só Solicitar um Orçamento e colar ou mencionar o código no campo de texto.</p><p>Clique no icone \"FU\" para voltar</p>",
           "_tags": [
             "Theme"
           ],
@@ -2134,7 +2140,7 @@
           "_params": {
             "showTitle": true,
             "showText": false,
-            "showButtons": false,
+            "showButtons": true,
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -2152,7 +2158,7 @@
           },
           "title": "&nbsp;Confira os workshops disponíveis para não ficar fora de nenhum!",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"3\" data-toolbar=\"-mbrBtnMove\">Voltar</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"menu02.html\" data-toolbar=\"-mbrBtnMove\">Voltar</a>",
           "_tags": [
             "Theme"
           ],
