@@ -259,6 +259,12 @@
 #msg-box4-3v .mbr-article P {
   text-align: center;
 }
+#msg-box1-5k .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-5k .mbr-article {
+  color: #fff;
+}
 #content5-5h .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;

@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "menu02.html",
+    "currentPage": "faleconosco.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 198,
+    "uniqCompNum": 201,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -172,7 +172,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#e7dcba",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -353,7 +353,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-864x1080.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#e7dcba",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -641,7 +641,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#e7dcba",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -925,7 +925,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#e7dcba",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1209,7 +1209,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#e7dcba",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1493,7 +1493,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#e7dcba",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1777,7 +1777,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#e7dcba",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2245,7 +2245,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#e7dcba",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2322,10 +2322,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fale-conosco-novo2-1400x395.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-2-250x250.png",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -2339,34 +2340,24 @@
               "name": "communication-phone",
               "family": "Material-Design-Icons",
               "link": "",
-              "size": "200",
-              "active": true
+              "size": "200"
             }
           },
           "title": "",
-          "text": "<p>Aqui você pode nos deixar um feedback, sugestões ou reclamações, dos nossos serviços e dos serviços prestados por nossos parceiros, basta clicar em Fale Conosco.</p><p>Se deseja anunciar no Aplicativo Festas Unidas basta nos enviar uma solicitação em Anuncie Aqui.</p><p><span style=\"text-align: center;\">Sua opinião pra nós vale muito!</span><br></p>",
+          "text": "<p><b><i>Aqui você pode nos deixar um feedback, sugestões ou reclamações, dos nossos serviços e dos serviços prestados por nossos parceiros, basta clicar em Fale Conosco.</i></b></p><p><b><i>Se deseja anunciar no Aplicat</i></b>ivo Festas Unidas basta nos enviar uma solicitação em Anuncie Aqui.</p><p><span style=\"text-align: center;\">Sua opinião pra nós vale muito!</span><br></p>",
           "_tags": [
             "Theme"
           ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "text-align": "center"
-            }
-          },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3w\" data-toolbar=\"-mbrBtnMove\">Anuncie&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3x\" data-toolbar=\"-mbrBtnMove\">Fale Conosco</a> ",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3v"
+          "_anchor": "msg-box4-3v",
+          "_customHTML": "<section class=\"mbr-section mbr-section--relative\" data-rv-view=\"239\" style=\"background-color: rgb(60, 60, 60);\">\n    \n    <div class=\"mbr-section__container mbr-section__container--isolated container\" style=\"padding-top: 31px; padding-bottom: 31px;\">\n        <div class=\"row\">\n            <div class=\"mbr-box mbr-box--fixed mbr-box--adapted\">\n                <div class=\"mbr-box__magnet mbr-box__magnet--top-right mbr-section__left col-sm-6 image-size\" style=\"width: 25%;\">\n                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width\"><img src=\"@PROJECT_PATH@/assets/images/logo2-2-250x250.png\" class=\"mbr-figure__img\"></figure>\n                </div>\n                <div class=\"mbr-box__magnet mbr-class-mbr-box__magnet--center-left col-sm-6 content-size mbr-section__right\">\n                    \n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-article mbr-article--auto-align mbr-article--wysiwyg mbr-editable-full\" code-editable-id=\"312\"> <p><strong><em>Aqui você pode nos deixar um feedback, sugestões ou reclamações, dos nossos serviços e dos serviços prestados por nossos parceiros, basta clicar em Fale Conosco.</em></strong></p><p><strong><em>Se deseja anunciar no Aplicat</em></strong>ivo Festas Unidas basta nos enviar uma solicitação em Anuncie Aqui.</p><p><span style=\"text-align: center;\">Sua opinião pra nós vale muito!</span><br></p></div>\n                    </div>\n                    <div class=\"mbr-section__container\">\n                        <div class=\"mbr-buttons mbr-buttons--auto-align btn-inverse\"><a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"page3.html#form1-3w\" code-editable-id=\"313\">Anuncie&nbsp;</a> <a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"faleconosco.html#form1-3x\" code-editable-id=\"314\">Fale Conosco</a> </div>\n                    </div>\n                </div>\n                \n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-header__text {\n  color: #ffffff;\n}\n.mbr-header__subtext {\n  color: #ffffff;\n}\n.mbr-article {\n  color: #ffffff;\n}\n.mbr-article P {\n  text-align: center;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -2666,6 +2657,43 @@
         "order": 1
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dcc990",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRE MADE BLOCKS",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"menu02.html\" data-toolbar=\"-mbrBtnMove\">Voltar</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-5k"
+        },
         {
           "_name": "footer1",
           "_params": {
