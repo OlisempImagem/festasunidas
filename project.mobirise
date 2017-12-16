@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "faleconosco.html",
+    "currentPage": "principal.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 201,
+    "uniqCompNum": 205,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -62,10 +62,10 @@
             },
             ".mbr-article": {
               "color": "#fff",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "19px",
-              "text-align": "center"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "48px",
+              "text-align": "right"
             }
           },
           "_params": {
@@ -88,7 +88,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Cique para voltar",
-          "text": "Fornecedores em ordem alfabética",
+          "text": "Bandas",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
           "_tags": [
             "Theme"
@@ -467,7 +467,7 @@
           },
           "title5": "TRENDY WEBSITE BLOCKS",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"fotografos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Fotografo</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"fotografos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Fotógrafo</a>",
           "media6": {
             "image": {
               "active": true,
@@ -487,7 +487,7 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"some iluminacao.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Som e Iluminação</a> <a data-app-btn=\"true\" href=\"some iluminacao.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">Voltar</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"some iluminacao.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Som e Iluminação</a> <a data-app-btn=\"true\" href=\"menu02.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">Voltar</a>",
           "_name": "content4",
           "_anchor": "content4-28"
         }
@@ -531,10 +531,10 @@
             },
             ".mbr-article": {
               "color": "#fff",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "19px",
-              "text-align": "center"
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "32px",
+              "text-align": "right"
             }
           },
           "_params": {
@@ -557,7 +557,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Cique para voltar",
-          "text": "Fornecedores em ordem alfabética",
+          "text": "Som e Iluminação",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
           "_tags": [
             "Theme"
@@ -815,9 +815,9 @@
             },
             ".mbr-article": {
               "color": "#fff",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "19px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "32px",
               "text-align": "center"
             }
           },
@@ -841,7 +841,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Cique para voltar",
-          "text": "Fornecedores em ordem alfabética",
+          "text": "Buffet",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html#content4-28\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
           "_tags": [
             "Theme"
@@ -1099,9 +1099,9 @@
             },
             ".mbr-article": {
               "color": "#fff",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "19px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "32px",
               "text-align": "center"
             }
           },
@@ -1125,7 +1125,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Cique para voltar",
-          "text": "Fornecedores em ordem alfabética",
+          "text": "Cerimonial",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html#content4-28\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
           "_tags": [
             "Theme"
@@ -1383,9 +1383,9 @@
             },
             ".mbr-article": {
               "color": "#fff",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "19px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "32px",
               "text-align": "center"
             }
           },
@@ -1409,7 +1409,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Cique para voltar",
-          "text": "Fornecedores em ordem alfabética",
+          "text": "Decoradores",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html#content4-28\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
           "_tags": [
             "Theme"
@@ -1667,9 +1667,9 @@
             },
             ".mbr-article": {
               "color": "#fff",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "19px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "32px",
               "text-align": "center"
             }
           },
@@ -1693,7 +1693,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Cique para voltar",
-          "text": "Fornecedores em ordem alfabética",
+          "text": "Fotógrafos",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html#content4-28\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
           "_tags": [
             "Theme"
@@ -2466,42 +2466,25 @@
         "header_custom": "<style>\n.navbar-fixed-top  {\ntop:-70px;\nopacity:0;\n}\n</style>",
         "footer_custom": "<script>\n /*---------------------------------------*/\n /*\tNAVIGATION AND NAVIGATION VISIBLE ON SCROLL\n /*---------------------------------------*/\n$( window ).on( \"load\", function() {\n    mainNav();\n    $(window).scroll(function() {\n        mainNav();\n    });\n    function mainNav() {\n        var top = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop;\n        if (top > 40) $('.navbar-fixed-top').stop().animate({\n            \"opacity\": '1',\n            \"top\": '0'\n        });\n        else $('.navbar-fixed-top').stop().animate({\n            \"top\": '-70',\n            \"opacity\": '0'\n        });\n\n\t}\n     });\n</script>",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
           "_name": "menu1"
         },
         {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#e7dcba",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "_anchor": "footer1-5e"
-        },
-        {
-          "_inherit": "features1",
           "_params": {
             "showHeader": false,
             "showSubheader": false,
-            "showImages": false,
+            "showImages": true,
             "showTitles": false,
             "showCaptions": false,
-            "showButtons": true,
-            "paddingTop": "1",
+            "showButtons": false,
+            "paddingTop": "0",
             "paddingBottom": "0",
-            "columns": "5",
+            "columns": "6",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-864x1080.jpg",
+            "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#e7dcba",
@@ -2509,20 +2492,17 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.8"
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "headerAlign": "left",
           "header": "DROP-DEAD EASY WEBSITE MAKER",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icone-1400x933.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-600x399.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2541,16 +2521,17 @@
           },
           "title1": "BOOTSTRAP 3",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"apresentacao.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Apresentação</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/apresentacao-httpsi.imgur.comvmlwnfx.jpg-600x100.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "apresentacao.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -2564,13 +2545,17 @@
           },
           "title2": "RESPONSIVE",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"principal.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Parceiros / Fornecedores</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/fornecedores-600x100.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "principal.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -2584,13 +2569,17 @@
           },
           "title3": "WEB FONTS",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"descontos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Descontos</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "images/unlimited-websites.png",
+              "src": "@PROJECT_PATH@/assets/images/descontos-600x100.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "descontos.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -2604,13 +2593,17 @@
           },
           "title4": "UNLIMITED WEBSITES",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"workshop.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Workshop</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
               "active": true,
-              "src": "images/blocks.png",
+              "src": "@PROJECT_PATH@/assets/images/workshops-600x100.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "workshop.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -2624,13 +2617,17 @@
           },
           "title5": "TRENDY WEBSITE BLOCKS",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"faleconosco.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Fale Conosco</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
               "active": true,
-              "src": "images/host.png",
+              "src": "@PROJECT_PATH@/assets/images/fale-conosco-600x100.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "faleconosco.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -2644,9 +2641,75 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"some iluminacao.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Som e Iluminação</a>",
-          "_name": "content4",
-          "_anchor": "content4-5f"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-5n"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7dcba",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "_anchor": "footer1-5e"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7dcba",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "EASY TO USE!",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-5o"
         }
       ]
     },
@@ -2654,7 +2717,7 @@
       "settings": {
         "meta_descr": "Apresentação",
         "title": "Apresentação",
-        "order": 1
+        "order": 2
       },
       "components": [
         {

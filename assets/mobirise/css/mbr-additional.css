@@ -1,5 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 
 
@@ -11,9 +13,9 @@
 }
 #msg-box1-29 .mbr-article {
   color: #fff;
-  font-family: 'Slabo 27px', serif;
-  font-size: 19px;
-  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 48px;
+  text-align: right;
 }
 #msg-box2-2l .mbr-header .mbr-header__text {
   color: #252525;
@@ -45,9 +47,9 @@
 }
 #msg-box1-4a .mbr-article {
   color: #fff;
-  font-family: 'Slabo 27px', serif;
-  font-size: 19px;
-  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 32px;
+  text-align: right;
 }
 #msg-box2-4c .mbr-header .mbr-header__text {
   color: #252525;
@@ -79,8 +81,8 @@
 }
 #msg-box1-4h .mbr-article {
   color: #fff;
-  font-family: 'Slabo 27px', serif;
-  font-size: 19px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 32px;
   text-align: center;
 }
 #msg-box2-4j .mbr-header .mbr-header__text {
@@ -113,8 +115,8 @@
 }
 #msg-box1-4o .mbr-article {
   color: #fff;
-  font-family: 'Slabo 27px', serif;
-  font-size: 19px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 32px;
   text-align: center;
 }
 #msg-box2-4q .mbr-header .mbr-header__text {
@@ -147,8 +149,8 @@
 }
 #msg-box1-4v .mbr-article {
   color: #fff;
-  font-family: 'Slabo 27px', serif;
-  font-size: 19px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 32px;
   text-align: center;
 }
 #msg-box2-4x .mbr-header .mbr-header__text {
@@ -181,8 +183,8 @@
 }
 #msg-box1-52 .mbr-article {
   color: #fff;
-  font-family: 'Slabo 27px', serif;
-  font-size: 19px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 32px;
   text-align: center;
 }
 #msg-box2-54 .mbr-header .mbr-header__text {
@@ -258,6 +260,17 @@
 }
 #msg-box4-3v .mbr-article P {
   text-align: center;
+}
+#content5-5o .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-5o .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-5o .mbr-article {
+  color: #fff;
 }
 #msg-box1-5k .mbr-header .mbr-header__text {
   color: #fff;
