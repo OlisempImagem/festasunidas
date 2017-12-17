@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "faleconosco.html",
+    "currentPage": "menu02.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 205,
     "versionPublish": "4.5.2",
@@ -2508,7 +2508,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo2-600x399.png",
+              "src": "@PROJECT_PATH@/assets/images/cabesalho-600x144.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2531,13 +2531,12 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/apresentacao-httpsi.imgur.comvmlwnfx.jpg-600x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/apresentacao-600x100.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "apresentacao.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
