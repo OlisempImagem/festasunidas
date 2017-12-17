@@ -2631,8 +2631,7 @@
               "width": 600,
               "link": "faleconosco.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
