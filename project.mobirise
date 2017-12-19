@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "principal.html",
+    "currentPage": "faleconosco.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 209,
     "versionPublish": "4.5.2",
@@ -89,7 +89,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Cique para voltar",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bandas",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Bandas",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
           "_tags": [
             "Theme"
@@ -847,7 +847,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Cique para voltar",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Buffet",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Buffet",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html#content4-28\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
           "_tags": [
             "Theme"
@@ -1961,9 +1961,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "13",
+            "imageSize": "60",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -2003,7 +2003,7 @@
             }
           },
           "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Os Códigos Promocionais aqui mostrados, &nbsp; assim como suas disponibilidades, são de &nbsp; responsabilidade de cada Fornecedor &nbsp;/ Parceiro. Para usufruir dos descontos, veja as condições estabelecidas por cada &nbsp; &nbsp; Fornecedor e seu Código Promocional. Anote ou selecione e copie esse código e &nbsp; &nbsp; &nbsp;clique no ícone do Festas Unidas logo &nbsp; &nbsp; &nbsp; &nbsp; abaixo de cada promoção. Você será &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; redirecionado a aba da respectiva &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Empresa e agora é só Solicitar um &nbsp; &nbsp;Orçamento e colar ou mencionar o código &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; no campo de texto.</p><p><br></p>",
+          "text": "<p>Os Códigos Promocionais aqui mostrados, assim como suas disponibilidades, são de &nbsp;responsabilidade de cada Fornecedor &nbsp;/ Parceiro. </p><p>Para &nbsp;usufruir &nbsp;dos &nbsp;descontos, &nbsp;veja &nbsp;as condições &nbsp; estabelecidas &nbsp; &nbsp;por &nbsp; &nbsp;cada &nbsp; &nbsp; Fornecedor &nbsp;e &nbsp;seu &nbsp;Código &nbsp;Promocional. Anote ou selecione e copie &nbsp;esse &nbsp;código &nbsp; &nbsp; e clique no ícone do Festas Unidas logo &nbsp; &nbsp; abaixo &nbsp;de &nbsp;cada &nbsp;promoção. &nbsp;Você &nbsp; será &nbsp; &nbsp; &nbsp;redirecionado &nbsp; a &nbsp; aba &nbsp; da &nbsp; &nbsp;respectiva &nbsp; &nbsp; &nbsp; &nbsp;Empresa &nbsp; e &nbsp; agora &nbsp; é &nbsp; só &nbsp; Solicitar um &nbsp; Orçamento &nbsp; e &nbsp; colar &nbsp; ou &nbsp; mencionar &nbsp;o &nbsp; &nbsp;código &nbsp;no campo de texto.</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2364,7 +2364,7 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3w\" data-toolbar=\"-mbrBtnMove\">Anuncie&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html#form1-3x\" data-toolbar=\"-mbrBtnMove\">Fale Conosco</a> ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-3v",
-          "_customHTML": "<section class=\"mbr-section mbr-section--relative\" data-rv-view=\"239\" style=\"background-color: rgb(60, 60, 60);\">\n    \n    <div class=\"mbr-section__container mbr-section__container--isolated container\" style=\"padding-top: 31px; padding-bottom: 31px;\">\n        <div class=\"row\">\n            <div class=\"mbr-box mbr-box--fixed mbr-box--adapted\">\n                <div class=\"mbr-box__magnet mbr-box__magnet--top-right mbr-section__left col-sm-6 image-size\" style=\"width: 25%;\">\n                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width\"><img src=\"@PROJECT_PATH@/assets/images/logo2-2-250x250.png\" class=\"mbr-figure__img\"></figure>\n                </div>\n                <div class=\"mbr-box__magnet mbr-class-mbr-box__magnet--center-left col-sm-6 content-size mbr-section__right\">\n                    \n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-article mbr-article--auto-align mbr-article--wysiwyg mbr-editable-full\" code-editable-id=\"88\"> <p>Aqui você pode nos deixar um feedback, sugestões ou reclamações, dos nossos serviços e dos serviços prestados por nossos parceiros, basta clicar em Fale Conosco.<br>Se deseja anunciar no Aplicativo Festas Unidas basta nos enviar uma solicitação em Anuncie Aqui.Sua opinião pra nós vale muito!</p></div>\n                    </div>\n                    <div class=\"mbr-section__container\">\n                        <div class=\"mbr-buttons mbr-buttons--auto-align btn-inverse\"><a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"faleconosco.html#form1-3w\" code-editable-id=\"89\">Anuncie</a> <a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"faleconosco.html#form1-3x\" code-editable-id=\"90\">Fale Conosco</a>  </div>\n                    </div>\n                </div>\n                \n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section--relative\" data-rv-view=\"239\" style=\"background-color: rgb(60, 60, 60);\">\n    \n    <div class=\"mbr-section__container mbr-section__container--isolated container\" style=\"padding-top: 31px; padding-bottom: 31px;\">\n        <div class=\"row\">\n            <div class=\"mbr-box mbr-box--fixed mbr-box--adapted\">\n                <div class=\"mbr-box__magnet mbr-box__magnet--top-right mbr-section__left col-sm-6 image-size\" style=\"width: 25%;\">\n                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width\"><img src=\"@PROJECT_PATH@/assets/images/logo2-2-250x250.png\" class=\"mbr-figure__img\"></figure>\n                </div>\n                <div class=\"mbr-box__magnet mbr-class-mbr-box__magnet--center-left col-sm-6 content-size mbr-section__right\">\n                    \n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-article mbr-article--auto-align mbr-article--wysiwyg mbr-editable-full\" code-editable-id=\"88\"> <p>Aqui você pode nos deixar um feedback, sugestões ou reclamações, dos nossos serviços e dos serviços prestados por nossos parceiros, basta clicar em Fale Conosco.<br>Se deseja anunciar no Aplicativo Festas Unidas basta nos enviar uma solicitação em Anuncie Aqui.Sua opinião pra nós vale muito!</p></div>\n                    </div>\n                    <div class=\"mbr-section__container\">\n                        <div class=\"mbr-buttons mbr-buttons--auto-align btn-inverse\"><a class=\"mbr-buttons__btn btn btn-lg mbr-editable-button btn-danger\" href=\"faleconosco.html#form1-3w\" code-editable-id=\"89\">Anuncie</a> <a class=\"mbr-buttons__btn btn btn-lg mbr-editable-button btn-danger\" href=\"faleconosco.html#form1-3x\" code-editable-id=\"90\">Fale Conosco</a>  </div>\n                    </div>\n                </div>\n                \n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-header__text {\n  color: #ffffff;\n}\n.mbr-header__subtext {\n  color: #ffffff;\n}\n.mbr-article {\n  color: #ffffff;\n}\n.mbr-article P {\n  text-align: center;\n}\n",
