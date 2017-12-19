@@ -14,13 +14,13 @@
         "#3c3c3c"
       ]
     },
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
-    "robotsSwitcher": "on",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/icone-128x85.png",
     "noImageResize": "",
-    "cookiesAlert": "Nós utilizamos cookies para que tenha melhor experiência .Leia a politica de privacidade. <a href='privacy.html'>cookie policy</a>.",
+    "cookiesAlert": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-46433634-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-46433634-1');\r\n</script>\r\n"
   },
   "pages": {
@@ -41,7 +41,7 @@
           "_name": "footer1",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -325,7 +325,7 @@
           "_name": "footer1",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -510,7 +510,7 @@
           "_name": "footer1",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -794,7 +794,7 @@
           "_name": "footer1",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1078,7 +1078,7 @@
           "_name": "footer1",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1362,7 +1362,7 @@
           "_name": "footer1",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1646,7 +1646,7 @@
           "_name": "footer1",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1935,7 +1935,7 @@
           "_name": "footer1",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -2113,7 +2113,7 @@
           "_name": "footer1",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -2287,7 +2287,7 @@
           "_name": "footer1",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -2475,7 +2475,7 @@
           "_name": "footer1",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
