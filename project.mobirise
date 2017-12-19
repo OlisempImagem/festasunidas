@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "faleconosco.html",
+    "currentPage": "apresentacao.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 205,
+    "uniqCompNum": 209,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -2513,8 +2513,8 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
