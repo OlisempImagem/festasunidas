@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "faleconosco.html",
+    "currentPage": "workshop.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 209,
     "versionPublish": "4.5.2",
@@ -2265,7 +2265,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Workshop:<br>Data:<br>Descrição:<br>Proficionais:<br><br><br>",
+          "title": "Workshop:<br>Data:<br>Descrição:<br>Profissionais:<br><br><br>",
           "text": "",
           "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"dg\" data-toolbar=\"-mbrBtnMove\">Clique e confirme presença</a>  ",
           "_tags": [
