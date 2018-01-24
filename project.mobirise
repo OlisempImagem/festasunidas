@@ -3,7 +3,7 @@
     "name": "Festas unidas",
     "currentPage": "lembrancinhas.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 426,
+    "uniqCompNum": 435,
     "versionPublish": "4.6.2",
     "theme": {
       "additionalSetColors": [
@@ -100,29 +100,29 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "animType": "blur",
-            "theme": "animated",
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "boundary",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "image": "@PROJECT_PATH@/assets/images/banda-harmonia-logo-826x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
-                "title": "title 2",
-                "text": "text 2",
+                "src": "@PROJECT_PATH@/assets/images/banda%20harmonia%20-%20logo-911x635.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/banda-harmonia-logo-68x48.png",
+                "title": "title 3",
+                "text": "text 3",
                 "active": true
               }
             ],
             "fullScreen": true,
             "showCaptions": false,
-            "hideControls": true,
+            "hideControls": false,
             "responsive": "1",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "captionsEffect": "slide",
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": 2,
@@ -130,8 +130,8 @@
             "customWidth": "1600",
             "customHeight": "1080",
             "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
+            "width": "1024",
+            "height": "576"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -139,7 +139,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-bo"
+          "_anchor": "wowslider-bw"
         },
         {
           "_inherit": "msg-box1",
@@ -565,29 +565,29 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "animType": "blur",
-            "theme": "animated",
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "boundary",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "image": "@PROJECT_PATH@/assets/images/psa-som-e-iluminao-logo-620x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
-                "title": "title 2",
-                "text": "text 2",
+                "src": "@PROJECT_PATH@/assets/images/psa%20som%20e%20ilumina%C3%A7%C3%A3o%20-%20logo-237x220.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/psa-som-e-iluminao-logo-51x48.png",
+                "title": "title 3",
+                "text": "text 3",
                 "active": true
               }
             ],
             "fullScreen": true,
             "showCaptions": false,
-            "hideControls": true,
+            "hideControls": false,
             "responsive": "1",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "captionsEffect": "slide",
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": 2,
@@ -595,8 +595,8 @@
             "customWidth": "1600",
             "customHeight": "1080",
             "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
+            "width": "1024",
+            "height": "576"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -604,7 +604,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-bs"
+          "_anchor": "wowslider-c1"
         },
         {
           "_inherit": "msg-box1",
@@ -1123,29 +1123,29 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "animType": "blur",
-            "theme": "animated",
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "boundary",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "image": "@PROJECT_PATH@/assets/images/andra-mussato-logo-576x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
-                "title": "title 2",
-                "text": "text 2",
+                "src": "@PROJECT_PATH@/assets/images/andr%C3%A9a%20mussato%20-%20logo-960x960.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/andra-mussato-logo-48x48.png",
+                "title": "title 3",
+                "text": "text 3",
                 "active": true
               }
             ],
             "fullScreen": true,
             "showCaptions": false,
-            "hideControls": true,
+            "hideControls": false,
             "responsive": "1",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "captionsEffect": "slide",
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": 2,
@@ -1153,8 +1153,8 @@
             "customWidth": "1600",
             "customHeight": "1080",
             "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
+            "width": "1024",
+            "height": "576"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -1162,7 +1162,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-bm"
+          "_anchor": "wowslider-by"
         },
         {
           "_inherit": "msg-box1",
@@ -1233,29 +1233,29 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "animType": "blur",
-            "theme": "animated",
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "boundary",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "image": "@PROJECT_PATH@/assets/images/frioli-eventos-logo-889x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
-                "title": "title 2",
-                "text": "text 2",
+                "src": "@PROJECT_PATH@/assets/images/frioli%20eventos%20-%20logo-960x622.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/frioli-eventos-logo-74x48.png",
+                "title": "title 3",
+                "text": "text 3",
                 "active": true
               }
             ],
             "fullScreen": true,
             "showCaptions": false,
-            "hideControls": true,
+            "hideControls": false,
             "responsive": "1",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "captionsEffect": "slide",
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": 2,
@@ -1263,8 +1263,8 @@
             "customWidth": "1600",
             "customHeight": "1080",
             "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
+            "width": "1024",
+            "height": "576"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -1272,7 +1272,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-bn"
+          "_anchor": "wowslider-bz"
         },
         {
           "_inherit": "msg-box1",
@@ -2987,29 +2987,29 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "animType": "blur",
-            "theme": "animated",
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "boundary",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "image": "@PROJECT_PATH@/assets/images/harmonia-tour-logo-576x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
-                "title": "title 2",
-                "text": "text 2",
+                "src": "@PROJECT_PATH@/assets/images/harmonia%20tour%20-%20logo-842x842.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/harmonia-tour-logo-48x48.png",
+                "title": "title 3",
+                "text": "text 3",
                 "active": true
               }
             ],
             "fullScreen": true,
             "showCaptions": false,
-            "hideControls": true,
+            "hideControls": false,
             "responsive": "1",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "captionsEffect": "slide",
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": 2,
@@ -3017,8 +3017,8 @@
             "customWidth": "1600",
             "customHeight": "1080",
             "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
+            "width": "1024",
+            "height": "576"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -3026,7 +3026,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-bq"
+          "_anchor": "wowslider-bv"
         },
         {
           "_inherit": "msg-box1",
@@ -3829,29 +3829,29 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "animType": "blur",
-            "theme": "animated",
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "boundary",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "image": "@PROJECT_PATH@/assets/images/showflair-logo-1012x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
-                "title": "title 2",
-                "text": "text 2",
+                "src": "@PROJECT_PATH@/assets/images/showflair%20-%20logo-531x302.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/showflair-logo-84x48.png",
+                "title": "title 3",
+                "text": "text 3",
                 "active": true
               }
             ],
             "fullScreen": true,
             "showCaptions": false,
-            "hideControls": true,
+            "hideControls": false,
             "responsive": "1",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "captionsEffect": "slide",
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": 2,
@@ -3859,8 +3859,8 @@
             "customWidth": "1600",
             "customHeight": "1080",
             "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
+            "width": "1024",
+            "height": "576"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -3868,7 +3868,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-bt"
+          "_anchor": "wowslider-bu"
         },
         {
           "_inherit": "msg-box1",
@@ -5239,29 +5239,29 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "animType": "blur",
-            "theme": "animated",
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "boundary",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "image": "@PROJECT_PATH@/assets/images/ana-decoraes-logo-576x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
-                "title": "title 2",
-                "text": "text 2",
+                "src": "@PROJECT_PATH@/assets/images/ana%20decora%C3%A7%C3%B5es%20-%20logo-200x200.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/ana-decoraes-logo-48x48.png",
+                "title": "title 3",
+                "text": "text 3",
                 "active": true
               }
             ],
             "fullScreen": true,
             "showCaptions": false,
-            "hideControls": true,
+            "hideControls": false,
             "responsive": "1",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "captionsEffect": "slide",
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": 2,
@@ -5269,8 +5269,8 @@
             "customWidth": "1600",
             "customHeight": "1080",
             "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
+            "width": "1024",
+            "height": "576"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -5278,7 +5278,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-bp"
+          "_anchor": "wowslider-bx"
         },
         {
           "_inherit": "msg-box1",
@@ -8239,29 +8239,29 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "animType": "blur",
-            "theme": "animated",
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "boundary",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-1024x497.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "src": "@PROJECT_PATH@/assets/images/top%20lembrancinhas%20-%20logo-581x282.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
-                "title": "title 2",
-                "text": "text 2",
+                "title": "title 3",
+                "text": "text 3",
                 "active": true
               }
             ],
             "fullScreen": true,
             "showCaptions": false,
-            "hideControls": true,
+            "hideControls": false,
             "responsive": "1",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "captionsEffect": "slide",
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": 2,
@@ -8269,8 +8269,8 @@
             "customWidth": "1600",
             "customHeight": "1080",
             "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
+            "width": "1024",
+            "height": "576"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -8278,7 +8278,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-bj"
+          "_anchor": "wowslider-c2"
         },
         {
           "_inherit": "msg-box1",
@@ -9933,29 +9933,29 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "animType": "blur",
-            "theme": "animated",
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "boundary",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "image": "@PROJECT_PATH@/assets/images/namo-filmes-logo-576x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
-                "title": "title 2",
-                "text": "text 2",
+                "src": "@PROJECT_PATH@/assets/images/namo%20filmes%20-%20logo-600x600.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/namo-filmes-logo-48x48.png",
+                "title": "title 3",
+                "text": "text 3",
                 "active": true
               }
             ],
             "fullScreen": true,
             "showCaptions": false,
-            "hideControls": true,
+            "hideControls": false,
             "responsive": "1",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "captionsEffect": "slide",
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": 2,
@@ -9963,8 +9963,8 @@
             "customWidth": "1600",
             "customHeight": "1080",
             "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
+            "width": "1024",
+            "height": "576"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -9972,7 +9972,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-br"
+          "_anchor": "wowslider-c0"
         },
         {
           "_inherit": "msg-box1",
