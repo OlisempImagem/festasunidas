@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "principal.html",
+    "currentPage": "Acessorios.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 408,
     "versionPublish": "4.6.2",
@@ -2612,7 +2612,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Cique para voltar",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp;Acessórios",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp;Assessorias",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
           "_tags": [
             "Theme"
