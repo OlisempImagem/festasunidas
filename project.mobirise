@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "decoracaoinfantil.html",
+    "currentPage": "Acessorios.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 410,
+    "uniqCompNum": 412,
     "versionPublish": "4.6.2",
     "theme": {
       "additionalSetColors": [
@@ -1132,7 +1132,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Cique para voltar",
-          "text": "&nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; Cerimonial e &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp;Acessórios",
+          "text": "&nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; Cerimonial e &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp;Assessoria",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html#content4-28\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
           "_tags": [
             "Theme"
@@ -1147,14 +1147,14 @@
             "theme": "animated",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/planning-2-1600x1067.jpg",
+                "image": "@PROJECT_PATH@/assets/images/andra-mussato-logo-1080x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/planning-1600x1067.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/planning-1-71x48.png",
+                "src": "@PROJECT_PATH@/assets/images/andr%C3%A9a%20mussato%20-%20logo-960x960.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/andra-mussato-logo-48x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/download-1-1600x1064.jpg",
@@ -1164,7 +1164,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/download-1-72x48.png",
                 "title": "title 3",
                 "text": "text 3",
-                "active": false
+                "active": true
               }
             ],
             "fullScreen": true,
@@ -1225,7 +1225,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Empresa:<br>Descrição:",
+          "title": "Casando com Flores chegou para inovar o SIM.<br><br><div>\n</div><div>De uma maneira muito doce e surpreendente a cerimônia é feita exclusivamente baseada na história de cada casal, com um toque todo especial, com a benção das flores...</div><br><div>Telefone:<a href=\"tel:+551797461990\">(15)99746-1990</a></div><br><br><div>Endereço</div><br><div>R. Miguel Sutil, 467 - Vila Santana, Sorocaba - SP, 18080-763</div>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -1248,7 +1248,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Redes sociais",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Casandocomflores/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_tags": [
             "Theme"
           ],
@@ -2612,7 +2612,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Cique para voltar",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp;Assessorias",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp;Acessórios",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
           "_tags": [
             "Theme"
@@ -8018,28 +8018,78 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "animType": "blur",
+            "autoplay": true,
+            "animType": "blast",
             "theme": "animated",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1510x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/carto-de-visita-frente-576x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-1510x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-67x48.png",
-                "title": "title 2",
-                "text": "text 2",
+                "src": "@PROJECT_PATH@/assets/images/cart%c3%a3o%20de%20visita%20frente-576x576.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/carto-de-visita-frente-48x48.png",
+                "title": "title 1",
+                "text": "text 1",
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-1600x1062.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-1-738x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/decora%C3%A7%C3%A3o-para-casamento-em-branco-3-800x531.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-72x48.png",
+                "src": "@PROJECT_PATH@/assets/images/foto%201-739x576.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/foto-1-61x48.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/foto-3-767x576.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/foto-3-767x576.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/foto-3-63x48.png",
                 "title": "title 3",
                 "text": "text 3",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/foto-4-576x576.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/foto%204-960x960.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/foto-4-48x48.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/foto-5-910x576.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/foto%205-960x607.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/foto-5-75x47.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/foto-6-794x576.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/foto%206-960x696.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/foto-6-66x48.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/foto-7-550x576.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/foto%207-918x960.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/foto-7-45x48.png",
+                "title": "title 2",
+                "text": "text 2",
                 "active": false
               }
             ],
@@ -8047,10 +8097,10 @@
             "showCaptions": false,
             "hideControls": true,
             "responsive": "1",
-            "paddingTop": "0",
+            "paddingTop": 0,
             "paddingBottom": "0",
             "captionsEffect": "slide",
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": 2,
@@ -8058,8 +8108,8 @@
             "customWidth": "1600",
             "customHeight": "1080",
             "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
+            "width": "1024",
+            "height": "576"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -8067,7 +8117,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-a1"
+          "_anchor": "wowslider-bf"
         },
         {
           "_inherit": "msg-box1",
