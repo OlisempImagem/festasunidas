@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "cerimonial.html",
+    "currentPage": "lembrancinhas.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 415,
+    "uniqCompNum": 426,
     "versionPublish": "4.6.2",
     "theme": {
       "additionalSetColors": [
@@ -105,23 +105,13 @@
             "theme": "animated",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/banda-harmonia-logo-1549x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/banda%20harmonia%20-%20logo-911x635.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/banda-harmonia-logo-68x48.png",
+                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-2-72x48.png",
-                "title": "title 3",
-                "text": "text 3",
                 "active": true
               }
             ],
@@ -149,7 +139,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-22"
+          "_anchor": "wowslider-bo"
         },
         {
           "_inherit": "msg-box1",
@@ -184,7 +174,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<br>A Banda Harmonia nasceu na cidade de Piedade SPe atua no mercado Musical desde 1990. <br><br>Infinity Office Campolim, Rua Octaviano Gozzano, 216 - Sala 61 - Campolim - Sorocaba - SP&nbsp;<br><br>Telefone: <a href=\"tel:(15) 3232.931\">(15) 3232.9311</a><br>&nbsp;<br>WhatsApp:(15)99785.8534",
+          "title": "<br><br>Infinity Office Campolim, Rua Octaviano Gozzano, 216 - Sala 61 - Campolim - Sorocaba - SP&nbsp;<br><br>Telefone: <a href=\"tel:(15) 3232.931\">(15) 3232.9311</a><br>&nbsp;<br>WhatsApp:(15)99785.8534",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"descontos.html#msg-box4-5d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -493,7 +483,7 @@
           "button6": "<a data-app-btn=\"true\" href=\"some iluminacao.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Som e Iluminação</a> ",
           "_name": "content4",
           "_anchor": "content4-28",
-          "_customHTML": "<section class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"400\" style=\"background-color: rgb(231, 220, 186);\">\n   \n      \n    <div class=\"mbr-section__container container mbr-section__container--std-top-padding\" style=\"padding-top: 31px;\">\n       \n       \n        <div class=\"mbr-section__row row\">\n          <!--inico botão acessorios -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"Acessorios.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"287\">Assessoria<br></a></div>\n                </div>\n            </div>\n            <!--inico botão agencia de viagens -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"agenciadeviagem.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"288\">Agencias de Viagem</a></div>\n                </div>\n            </div>\n             <!--inico botão Aliança -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">          \n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"Aliança e Joias.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"289\">Aliança e Jóias</a>                   </div>\n                </div>\n             </div>\n             <!--inico botão FEstas -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">          \n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"aplicativosparafestas.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"290\">Aplicativos Para Festas</a>   \n                    </div>\n                </div>\n             </div>\n         \n             <!--inico botão Bandas -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\"> \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"bandas.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"291\">Bandas</a>                     </div>\n                </div>\n            </div>\n             <!--inico botão Bartender -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">          \n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"Bartender.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"292\">Bartender</a>   \n                    </div>\n                </div>\n             </div>\n             <!--inico botão bolos -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">          \n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"bolos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"293\">Bolos</a>   \n                    </div>\n                </div>\n             </div>\n             <!--inico botão buffet -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">    \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"Buffet.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"294\">Buffet</a></div>\n                </div>\n            </div>\n             <!--inico botão cabelo e maquiagem -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">          \n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"Cabelo e maquigem.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"295\">Cabelo e Maquiagem</a>   \n                    </div>\n                </div>\n             </div>\n            \n             <!--inico botão cerimoniais -->           \n            <div class=\"clearfix visible-sm-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                \n                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"cerimonial.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"296\">Cerimoniais e acessórios</a></div>\n                </div>\n            </div>\n             <!--inico botão convites -->\n             <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">          \n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"Convites.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"297\">Convites</a>   \n                    </div>\n                </div>\n             </div>\n             <!--inico botão coreografo -->\n             <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">          \n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"coreografos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"298\">Coreógrafos</a>   \n                    </div>\n                </div>\n             </div> \n            \n             <!--inico botão decoração -->          \n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"Decoradores.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"299\">Decoração</a></div>\n                </div>\n            </div>\n             <!--inico botão decoracao infatil -->\n             <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"decoracaoinfantil.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"300\">Decoração Infantil</a></div>\n                </div>\n            </div>\n             <!--inico botão decoração tematica -->\n              <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"decoracaotematica.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"301\">Decoração Temática</a></div>\n                </div>\n            </div>\n             <!--inico botão designer graficos -->\n              <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"designergrafico.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"302\">Designers Gráficos</a></div>\n                </div>\n            </div>\n             <!--inico botão dia da noiva -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"diadanoiva.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"303\">Dia da Noiva</a></div>\n                </div>\n            </div>\n             <!--inico botão DJ -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"DJ.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"304\">DJ</a></div>\n                </div>\n            </div>\n             <!--inico botão doces finos -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"docesfinos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"305\">Doces Finos\n</a></div>\n                </div>\n            </div>\n             <!--inico botão espaços eventos -->\n             <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"espacosdeeventos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"306\">Espaços de Eventos\n</a></div>\n                </div>\n            </div>\n             <!--inico botão eventos infantis -->\n            \n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"espacosdeeventosinfantil.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"307\">Espaços de Eventos Infantis\n</a></div>\n                </div>\n            </div>\n            \n             <!--inico botão foto cabine -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"fotocabine.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"308\">Foto Cabine\n</a></div>\n                </div>\n            </div>\n             <!--inico botão fotografos -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"fotografos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"309\">Fotógrafos\n</a></div>\n                </div>\n            </div>\n             <!--inico botão hoteis -->\n             <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"hoteis.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"310\">Hotéis\n</a></div>\n                </div>\n            </div>\n            <!--inico botão Locação de Lembrancinha -->\n             <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"lembrancinhas.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"311\">Lembrancinhas\n</a></div>\n                </div>\n            </div>\n            <!--inico botão Locação de Carros -->\n             <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"locacaodecarros.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"312\">Locação de Carros\n</a></div>\n                </div>\n            </div>\n            <!--inico botão Locação de moveis -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"locacaodeimoveis.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"313\">Locação de Móveis\n</a></div>\n                </div>\n            </div>\n            <!--inico botão som e iliminacao -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"some iluminacao.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"314\">Som/Iluminação\n</a></div>\n                </div>\n            </div>\n            <!--inico botão tendas e coberturas -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"tendaeiluminacao.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"315\">Tendas e Coberturas\n</a></div>\n                </div>\n            </div>\n            <!--inico botão Vallets -->\n                   <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"Valet.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"316\">Valets\n</a></div>\n                </div>\n            </div>\n            <!--inico botão Vestido e trajes -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"vestidosetrajes.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"317\">Vestidos e Trajes\n</a></div>\n                </div>\n            </div>\n            \n          <!--inico botão videos -->\n            \n                <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"videos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"318\">Vídeos\n</a></div>\n                </div>\n            </div>\n                                                \n        </div>\n        \n           <div class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>  \n        \n</div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"400\" style=\"background-color: rgb(231, 220, 186);\">\n   \n      \n    <div class=\"mbr-section__container container mbr-section__container--std-top-padding\" style=\"padding-top: 31px;\">\n       \n       \n        <div class=\"mbr-section__row row\">\n          <!--inico botão acessorios -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"Acessorios.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"287\">Acessórios<br></a></div>\n                </div>\n            </div>\n            <!--inico botão agencia de viagens -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"agenciadeviagem.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"288\">Agencias de Viagem</a></div>\n                </div>\n            </div>\n             <!--inico botão Aliança -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">          \n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"Aliança e Joias.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"289\">Aliança e Jóias</a>                   </div>\n                </div>\n             </div>\n             <!--inico botão FEstas -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">          \n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"aplicativosparafestas.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"290\">Aplicativos Para Festas</a>   \n                    </div>\n                </div>\n             </div>\n         \n             <!--inico botão Bandas -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\"> \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"bandas.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"291\">Bandas</a>                     </div>\n                </div>\n            </div>\n             <!--inico botão Bartender -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">          \n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"Bartender.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"292\">Bartender</a>   \n                    </div>\n                </div>\n             </div>\n             <!--inico botão bolos -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">          \n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"bolos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"293\">Bolos</a>   \n                    </div>\n                </div>\n             </div>\n             <!--inico botão buffet -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">    \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"Buffet.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"294\">Buffet</a></div>\n                </div>\n            </div>\n             <!--inico botão cabelo e maquiagem -->\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">          \n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"Cabelo e maquigem.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"295\">Cabelo e Maquiagem</a>   \n                    </div>\n                </div>\n             </div>\n            \n             <!--inico botão cerimoniais -->           \n            <div class=\"clearfix visible-sm-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                \n                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"cerimonial.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"296\">Cerimoniais e Assessorias</a></div>\n                </div>\n            </div>\n             <!--inico botão convites -->\n             <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">          \n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"Convites.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"297\">Convites</a>   \n                    </div>\n                </div>\n             </div>\n             <!--inico botão coreografo -->\n             <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">          \n               \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"coreografos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"298\">Coreógrafos</a>   \n                    </div>\n                </div>\n             </div> \n            \n             <!--inico botão decoração -->          \n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"Decoradores.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"299\">Decoração</a></div>\n                </div>\n            </div>\n             <!--inico botão decoracao infatil -->\n             <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"decoracaoinfantil.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"300\">Decoração Infantil</a></div>\n                </div>\n            </div>\n             <!--inico botão decoração tematica -->\n              <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"decoracaotematica.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"301\">Decoração Temática</a></div>\n                </div>\n            </div>\n             <!--inico botão designer graficos -->\n              <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"designergrafico.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"302\">Designers Gráficos</a></div>\n                </div>\n            </div>\n             <!--inico botão dia da noiva -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"diadanoiva.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"303\">Dia da Noiva</a></div>\n                </div>\n            </div>\n             <!--inico botão DJ -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"DJ.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"304\">DJ</a></div>\n                </div>\n            </div>\n             <!--inico botão doces finos -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"docesfinos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"305\">Doces Finos\n</a></div>\n                </div>\n            </div>\n             <!--inico botão espaços eventos -->\n             <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"espacosdeeventos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"306\">Espaços de Eventos\n</a></div>\n                </div>\n            </div>\n             <!--inico botão eventos infantis -->\n            \n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"espacosdeeventosinfantil.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"307\">Espaços de Eventos Infantis\n</a></div>\n                </div>\n            </div>\n            \n             <!--inico botão foto cabine -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"fotocabine.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"308\">Foto Cabine\n</a></div>\n                </div>\n            </div>\n             <!--inico botão fotografos -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"fotografos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"309\">Fotógrafos\n</a></div>\n                </div>\n            </div>\n             <!--inico botão hoteis -->\n             <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"hoteis.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"310\">Hotéis\n</a></div>\n                </div>\n            </div>\n            <!--inico botão Locação de Lembrancinha -->\n             <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"lembrancinhas.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"311\">Lembrancinhas\n</a></div>\n                </div>\n            </div>\n            <!--inico botão Locação de Carros -->\n             <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"locacaodecarros.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"312\">Locação de Carros\n</a></div>\n                </div>\n            </div>\n            <!--inico botão Locação de moveis -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"locacaodeimoveis.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"313\">Locação de Móveis\n</a></div>\n                </div>\n            </div>\n            <!--inico botão som e iliminacao -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"some iluminacao.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"314\">Som/Iluminação\n</a></div>\n                </div>\n            </div>\n            <!--inico botão tendas e coberturas -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"tendaeiluminacao.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"315\">Tendas e Coberturas\n</a></div>\n                </div>\n            </div>\n            <!--inico botão Vallets -->\n                   <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"Valet.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"316\">Valets\n</a></div>\n                </div>\n            </div>\n            <!--inico botão Vestido e trajes -->\n            <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"vestidosetrajes.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"317\">Vestidos e Trajes\n</a></div>\n                </div>\n            </div>\n            \n          <!--inico botão videos -->\n            \n                <div class=\"clearfix visible-md-block\"></div>\n            <div class=\"mbr-section__col col-xs-12 col-lg-2 col-md-4 col-sm-6\">\n                \n                                \n                <div class=\"mbr-section__container mbr-section__container--last\" style=\"padding-bottom: 0px;\">\n                    <div class=\"mbr-buttons mbr-buttons--center\"><a href=\"videos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg mbr-editable-button btn-warning\" code-editable-id=\"318\">Vídeos\n</a></div>\n                </div>\n            </div>\n                                                \n        </div>\n        \n           <div class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>  \n        \n</div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": " ",
@@ -580,24 +570,14 @@
             "theme": "animated",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/download-1-1600x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/download-290x174.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/download-1-80x48.png",
+                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/images-1-1600x1064.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/images%20(1)-275x183.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/images-1-72x48.png",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
+                "active": true
               }
             ],
             "fullScreen": true,
@@ -624,7 +604,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-4b"
+          "_anchor": "wowslider-bs"
         },
         {
           "_inherit": "msg-box1",
@@ -658,7 +638,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Empresa:<br>Descrição:",
+          "title": "<br>Telefone: <a href=\"tel:(15) 3013-3506\">(15) 3013-3506</a>\n<div>Celular (15) 9-9667-1668</div><br><div>\n</div><div><a href=\"http://www.psasomeluz.com.br\" target=\"_blank\">Clique aqui</a> e&nbsp;</div><div>Visite nosso site</div>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -681,7 +661,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Redes sociais",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://m.facebook.com/psa.someluz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_tags": [
             "Theme"
           ],
@@ -1148,23 +1128,13 @@
             "theme": "animated",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/andra-mussato-logo-1080x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/andr%C3%A9a%20mussato%20-%20logo-960x960.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/andra-mussato-logo-48x48.png",
+                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/download-1-1600x1064.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/download-275x183.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/download-1-72x48.png",
-                "title": "title 3",
-                "text": "text 3",
                 "active": true
               }
             ],
@@ -1192,7 +1162,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-4p"
+          "_anchor": "wowslider-bm"
         },
         {
           "_inherit": "msg-box1",
@@ -1226,7 +1196,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Casando com Flores chegou para inovar o SIM.<br><br><div>\n</div><div>De uma maneira muito doce e surpreendente a cerimônia é feita exclusivamente baseada na história de cada casal, com um toque todo especial, com a benção das flores...</div><br><div>Telefone:<a href=\"tel:+551797461990\">(15)99746-1990</a></div><br><br><div>Endereço</div><br><div>R. Miguel Sutil, 467 - Vila Santana, Sorocaba - SP, 18080-763</div>",
+          "title": "<br><br><div>Telefone:<a href=\"tel:+551797461990\">(15)99746-1990</a></div><br><br><div>Endereço</div><br><div>R. Miguel Sutil, 467 - Vila Santana, Sorocaba - SP, 18080-763</div>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -1263,28 +1233,18 @@
         },
         {
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "animType": "blur",
             "theme": "animated",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/frioli-eventos-logo-1599x1047.jpg",
+                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/frioli%20eventos%20-%20logo-1600x1036.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/frioli-eventos-logo-73x48.png",
+                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/download-1-1600x1064.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/download-275x183.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/download-1-72x48.png",
-                "title": "title 3",
-                "text": "text 3",
                 "active": true
               }
             ],
@@ -1312,7 +1272,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-bg"
+          "_anchor": "wowslider-bn"
         },
         {
           "_inherit": "msg-box1",
@@ -3032,24 +2992,14 @@
             "theme": "animated",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1600x986.jpg",
+                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-1752x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-77x48.png",
+                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-2-72x48.png",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
               }
             ],
             "fullScreen": true,
@@ -3076,7 +3026,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-65"
+          "_anchor": "wowslider-bq"
         },
         {
           "_inherit": "msg-box1",
@@ -3110,7 +3060,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<br>Descrição:",
+          "title": "<br>Infinity Office Campolim. Rua Octaviano Gozzano, 216, sala 61 (4,29 km)\n<div>18048-60 Sorocaba\n</div><div><br></div>Telefone: <a href=\"tel:(15) 98181-0033\">(15) 98181-0033</a><br><div><br></div>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"descontos.html#msg-box4-5d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -3133,7 +3083,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Redes sociais",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Harmonia-Tur-1505342609772676/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_tags": [
             "Theme"
           ],
@@ -3884,24 +3834,14 @@
             "theme": "animated",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-1919x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-85x47.png",
+                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1600x1066.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-2-72x48.png",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
               }
             ],
             "fullScreen": true,
@@ -3928,7 +3868,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-6q"
+          "_anchor": "wowslider-bt"
         },
         {
           "_inherit": "msg-box1",
@@ -3962,7 +3902,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<br>Descrição:",
+          "title": "<br><br>Telefone: &nbsp; 3018-9569 Celular: &nbsp; 99135-6977<br><br><a href=\"http://showflair.com.br\" target=\"_blank\">Clique aqui</a> e&nbsp;<br>Visite nosso site",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"descontos.html#msg-box4-5d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -3985,7 +3925,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Redes sociais",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/showflair.bartenders\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_tags": [
             "Theme"
           ],
@@ -5304,23 +5244,13 @@
             "theme": "animated",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/ana-decoraes-logo-1080x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/ana%20decora%C3%A7%C3%B5es%20-%20logo-200x200.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/ana-decoraes-logo-48x48.png",
+                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-1600x1062.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/decora%C3%A7%C3%A3o-para-casamento-em-branco-3-800x531.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-72x48.png",
-                "title": "title 3",
-                "text": "text 3",
                 "active": true
               }
             ],
@@ -5348,7 +5278,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-83"
+          "_anchor": "wowslider-bp"
         },
         {
           "_inherit": "msg-box1",
@@ -5382,7 +5312,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<br>Locacao de Decorações para Festas Infantis.<br><br>Telefone:<a href=\"tel:+551532225382\">(15) 3222-5382</a>&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"tel:+5515974044147\">(15)97404-4147</a>\n<div>Nextel ID: 85*20956\n</div><div><br></div>",
+          "title": "<br><br>Telefone:<a href=\"tel:+551532225382\">(15) 3222-5382</a>&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"tel:+5515974044147\">(15)97404-4147</a>\n<div>Nextel ID: 85*20956\n</div><div><br></div>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -8308,6 +8238,116 @@
           "_anchor": "social-buttons2-a3"
         },
         {
+          "_params": {
+            "autoplay": false,
+            "animType": "blur",
+            "theme": "animated",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": true
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": true,
+            "responsive": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "captionsEffect": "slide",
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1600",
+            "height": "1080"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-bj"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7dcba",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<div>.</div><br><div>Telefone:(11) 948690926\n</div><div>8:00 às 17:00 </div><br><div>De seg. à sexta.\n</div><div><br></div><div>Endereço:</div><br><div>Av Getúlio Vargas, 2448 Jardim Analandia - Itapecerica da Serra SP 06864550</div>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-bk"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Redes sociais",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/toplembrancinha\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "social-buttons2-bl"
+        },
+        {
           "_inherit": "msg-box1",
           "_params": {
             "showTitle": false,
@@ -8556,7 +8596,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<br>A Diga Sim acompanha você no memomento mais emocionante da sua vida.<br><br>Telefone:<a href=\"tel:+551533299250\">(15) 3329-9250</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"tel:+551578341223\">(15) 7834-1223</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"tel:+551591150253\">(15) 9115-0233</a><br><br><a href=\"http://www.digasimcarros.com.br/index.php\" target=\"_blank\">Clique aqu</a>i e<br>Visite nosso Site<br><a href=\"tel:+551591150253\"><br></a>",
+          "title": "<br><br>Telefone:<a href=\"tel:+551533299250\">(15) 3329-9250</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"tel:+551578341223\">(15) 7834-1223</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"tel:+551591150253\">(15) 9115-0233</a><br><br><a href=\"http://www.digasimcarros.com.br/index.php\" target=\"_blank\">Clique aqu</a>i e<br>Visite nosso Site<br><a href=\"tel:+551591150253\"><br></a>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -9898,24 +9938,14 @@
             "theme": "animated",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1600x806.jpg",
+                "image": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-1920x968.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-85x42.png",
+                "src": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-581x282.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/top-lembrancinhas-logo-85x41.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-1600x1062.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/decora%C3%A7%C3%A3o-para-casamento-em-branco-3-800x531.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-72x48.png",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
               }
             ],
             "fullScreen": true,
@@ -9942,7 +9972,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-b7"
+          "_anchor": "wowslider-br"
         },
         {
           "_inherit": "msg-box1",
@@ -9976,7 +10006,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Empresa:<br>Descrição:",
+          "title": "<br>Rua Ana Augusto, 470 - Vila Augusta, Sorocaba - SP, 18040-040<br><br>Telefone:<a href=\"tel:(15) 997581159\">(15) 997581159</a><br><br><a href=\"http://www.nanofilmes.com\" target=\"_blank\">Clique aqui</a> e&nbsp;<br>Visite nosso Site",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -9999,7 +10029,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Redes sociais",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/nanofilmes\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/nanofilmes\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_tags": [
             "Theme"
           ],
