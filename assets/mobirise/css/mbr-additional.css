@@ -20,6 +20,7 @@
   color: #252525;
   font-family: 'Slabo 27px', serif;
   font-size: 13px;
+  text-align: right;
 }
 #msg-box2-2l .mbr-article {
   color: #252525;
@@ -107,6 +108,7 @@
 
 
 
+
 #msg-box1-4o .mbr-header .mbr-header__text {
   color: #fff;
   font-size: 12px;
@@ -127,6 +129,17 @@
   color: #252525;
 }
 #social-buttons2-4r .mbr-header__text {
+  font-size: 19px;
+}
+#msg-box2-bh .mbr-header .mbr-header__text {
+  color: #252525;
+  font-family: 'Slabo 27px', serif;
+  font-size: 13px;
+}
+#msg-box2-bh .mbr-article {
+  color: #252525;
+}
+#social-buttons2-bi .mbr-header__text {
   font-size: 19px;
 }
 #msg-box2-4s .mbr-header .mbr-header__text {
