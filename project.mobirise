@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "lembrancinhas.html",
+    "currentPage": "videos.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 435,
+    "uniqCompNum": 454,
     "versionPublish": "4.6.2",
     "theme": {
       "additionalSetColors": [
@@ -208,6 +208,226 @@
               "font-size": "19px"
             }
           }
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "balance",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/master-logo-576x576.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/master%20-%20logo-828x828.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/master-logo-48x48.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": false,
+            "responsive": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "captionsEffect": "slide",
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1024",
+            "height": "576"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-c3"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7dcba",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp;<br><br>Master Orquestra e Coral<br><br><div>Telefone:</div>(Vivo)<br>&nbsp; &nbsp; - (15) 3011 9573 - <br>&nbsp; &nbsp; -(15) 9 9782 6169-&nbsp;<br>&nbsp; &nbsp; - (15) 9 9103-5021- <br>(Claro)<br>(15) 9 9126-5555<br>(Tim)&nbsp;<br>(15) 9 8104 6996<br>(Oi)<br>&nbsp;(15) 9 8817 9898&nbsp;<br><div><br></div><br><div>Endereço</div><br><div>Rua Raul Pompéia, 74 - Mangal - Sorocaba - SP</div><br><div><a href=\"http://www.masterorquestraecoral.com.br\" target=\"_blank\">Clique aqui</a> e&nbsp;</div><div>Visite nosso Site</div>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-c5"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Redes sociais",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/masterorquestracoralbandajazz/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "social-buttons2-c6"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "aqua",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/banda-maia-orquestra-e-coral-logo-576x576.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/banda%20maia%20orquestra%20e%20coral%20-%20logo-540x540.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/banda-maia-orquestra-e-coral-logo-48x48.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": false,
+            "responsive": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "captionsEffect": "slide",
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1024",
+            "height": "576"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-cg"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7dcba",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<br><br>Banda Maia Orquestra e Coral<br><br>Telefone:<a href=\"tel:(15)99618-5388\">(15)99618-5388</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (15)99848-0733<br>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-ch"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Redes sociais",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/BandaMaiaOrquestraECoral\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "social-buttons2-ck"
         },
         {
           "_inherit": "msg-box1",
@@ -1791,26 +2011,16 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "animType": "blur",
-            "theme": "animated",
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "aqua",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/decoracao-casamento-flor-e-forma-5-1600x1021.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alex-massarotto-logo-576x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/decoracao-casamento-flor-e-forma-4-600x383.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/decoracao-casamento-flor-e-forma-5-75x47.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-1600x1062.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/decora%C3%A7%C3%A3o-para-casamento-em-branco-3-800x531.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-72x48.png",
+                "src": "@PROJECT_PATH@/assets/images/alex%20massarotto%20-%20logo-960x960.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/alex-massarotto-logo-48x48.png",
                 "title": "title 3",
                 "text": "text 3",
                 "active": true
@@ -1818,12 +2028,12 @@
             ],
             "fullScreen": true,
             "showCaptions": false,
-            "hideControls": true,
+            "hideControls": false,
             "responsive": "1",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "captionsEffect": "slide",
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": 2,
@@ -1831,8 +2041,8 @@
             "customWidth": "1600",
             "customHeight": "1080",
             "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
+            "width": "1024",
+            "height": "576"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -1840,7 +2050,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-53"
+          "_anchor": "wowslider-c7"
         },
         {
           "_inherit": "msg-box1",
@@ -1874,7 +2084,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Empresa:<br>Descrição:",
+          "title": ".<br><br>Alex Massarotto<br><br>Telefone: <a href=\"tel:15 981170018\">(15) 981170018</a>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -1897,7 +2107,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Redes sociais",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/alexmassarotto.photographer\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_tags": [
             "Theme"
           ],
@@ -2989,7 +3199,7 @@
           "_params": {
             "autoplay": true,
             "animType": "basic_linear",
-            "theme": "boundary",
+            "theme": "animated",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/harmonia-tour-logo-576x576.jpg",
@@ -3004,7 +3214,7 @@
             ],
             "fullScreen": true,
             "showCaptions": false,
-            "hideControls": false,
+            "hideControls": true,
             "responsive": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -3060,7 +3270,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<br>Infinity Office Campolim. Rua Octaviano Gozzano, 216, sala 61 (4,29 km)\n<div>18048-60 Sorocaba\n</div><div><br></div>Telefone: <a href=\"tel:(15) 98181-0033\">(15) 98181-0033</a><br><div><br></div>",
+          "title": "<br>Infinity Office Campolim. Rua Octaviano Gozzano, 216, sala 61 (4,29 km)\n<div>18048-60 Sorocaba\n</div><div><br></div>Telefone: <a href=\"tel:15-981810033\">(15) 98181-0033</a><br><div><br></div>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"descontos.html#msg-box4-5d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -3535,7 +3745,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Cique para voltar",
-          "text": "&nbsp; &nbsp; <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aliança e&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Joias",
+          "text": "&nbsp; &nbsp; <br>&nbsp; &nbsp; &nbsp; &nbsp; Aplicativos&nbsp;<br>&nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;para festas",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"principal.html\" data-toolbar=\"-mbrBtnMove\">Clique para Voltar</a>",
           "_tags": [
             "Theme"
@@ -3936,6 +4146,116 @@
             }
           },
           "_anchor": "social-buttons2-6s"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "aqua",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/e-mixer-bartenders-logo-921x576.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/e-mixer%20bartenders%20-%20logo-960x600.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/e-mixer-bartenders-logo-76x48.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": false,
+            "responsive": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "captionsEffect": "slide",
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1024",
+            "height": "576"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-ca"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7dcba",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<br><br>E-Mixer Bartenders<br><br>Telefone:(15) 30123144<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(15) 996297798<br><br>Endereço:<br><br>R. Manoel Monteiro, 105 (2,88 km)\n<div>18076-351 Sorocaba\n</div><div><br><br><a href=\"http://www.emixerbartenders.com.br\" target=\"_blank\">Clique aqui</a> e&nbsp;<br>Visite nosso Site</div>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-cd"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Redes sociais",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/emixerbartenders\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "social-buttons2-cb"
         },
         {
           "_inherit": "msg-box1",
@@ -7501,39 +7821,29 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "animType": "blur",
-            "theme": "animated",
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "aqua",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/2014-10-22-79557a-1600x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-cabine-valverde-logo-1024x400.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/2014-10-22-79557a-2000x1333.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/2014-10-22-79557a-72x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-1600x1062.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/decora%C3%A7%C3%A3o-para-casamento-em-branco-3-800x531.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-72x48.png",
+                "src": "@PROJECT_PATH@/assets/images/foto%20cabine%20valverde%20-%20logo-960x375.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/foto-cabine-valverde-logo-85x33.png",
                 "title": "title 3",
                 "text": "text 3",
-                "active": false
+                "active": true
               }
             ],
             "fullScreen": true,
             "showCaptions": false,
-            "hideControls": true,
+            "hideControls": false,
             "responsive": "1",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "captionsEffect": "slide",
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": 2,
@@ -7541,8 +7851,8 @@
             "customWidth": "1600",
             "customHeight": "1080",
             "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
+            "width": "1024",
+            "height": "576"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -7550,7 +7860,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-9n"
+          "_anchor": "wowslider-cl"
         },
         {
           "_inherit": "msg-box1",
@@ -7584,7 +7894,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Empresa:<br>Descrição:",
+          "title": "<br><br>Foto Cabine Valverde<br><br>Telefones:(15) 991014009 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(15) 996114824<br><br><a href=\"http://fotocabinevalverde.comunidades.net/foto-cabine-valverde\" target=\"_blank\">Clique Aqui</a> e&nbsp;<br>Visite nosso Site",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -7607,7 +7917,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Redes sociais",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/fotocabinevalverde/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_tags": [
             "Theme"
           ],
@@ -10040,6 +10350,90 @@
             }
           },
           "_anchor": "social-buttons2-b9"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "aqua",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/valverde-fotografia-e-cinematografia-logo-1024x568.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/valverde%20fotografia%20e%20cinematografia%20-%20logo-960x533.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/valverde-fotografia-e-cinematografia-logo-85x47.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": false,
+            "responsive": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "captionsEffect": "slide",
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1024",
+            "height": "576"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-ce"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7dcba",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<br><br>Valverde Fotografia e Cinematografia<br><br>Telefone:(15) 99611.4824<br><br>Endereço:<br><br>Rua Guaicurus, Vila Leão - Sorocaba SP-&nbsp;",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-cf"
         },
         {
           "_inherit": "msg-box1",
