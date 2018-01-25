@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "videos.html",
+    "currentPage": "Acessorios.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 454,
     "versionPublish": "4.6.2",
@@ -2295,7 +2295,7 @@
             }
           },
           "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Os Códigos Promocionais aqui mostrados, assim como suas disponibilidades, são de &nbsp;responsabilidade de cada Fornecedor &nbsp;/ Parceiro. </p><p>Para &nbsp;usufruir &nbsp;dos &nbsp;descontos, &nbsp;veja &nbsp;as condições &nbsp; estabelecidas &nbsp; &nbsp;por &nbsp; &nbsp;cada &nbsp; &nbsp; Fornecedor &nbsp;e &nbsp;seu &nbsp;Código &nbsp;Promocional. Anote ou selecione e copie &nbsp;esse &nbsp;código &nbsp; &nbsp; e clique no ícone do Festas Unidas logo &nbsp; &nbsp; abaixo &nbsp;de &nbsp;cada &nbsp;promoção. &nbsp;Você &nbsp; será &nbsp; &nbsp; &nbsp;redirecionado &nbsp; a &nbsp; aba &nbsp; da &nbsp; &nbsp;respectiva &nbsp; &nbsp; &nbsp; &nbsp;Empresa &nbsp; e &nbsp; agora &nbsp; é &nbsp; só &nbsp; Solicitar um &nbsp; Orçamento &nbsp; e &nbsp; colar &nbsp; ou &nbsp; mencionar &nbsp;o &nbsp; &nbsp;código &nbsp;no campo de texto.</p><p><br></p>",
+          "text": "<p>&nbsp;Seu evento ainda pode ter mais atrações! Abaixo você pode ver as datas que os anunciantes estão dando descontos. </p><p>Se algum ajustou perfeitamente ao que quer, clique agora e garanta seu código promocional! </p><p>Depois, basta enviar pedido de orçamento para o anunciante com o código.</p><p>*Os códigos promocionais são de responsabilidade dos anunciantes, portanto, não deixe de ver as condições estabelecidas por eles.</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2314,7 +2314,8 @@
               "font-size": "14px"
             },
             ".mbr-article P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "headerAlign": "left",
