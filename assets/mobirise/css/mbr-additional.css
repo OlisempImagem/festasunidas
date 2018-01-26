@@ -212,6 +212,11 @@
 
 
 
+
+
+
+
+
 #msg-box1-52 .mbr-header .mbr-header__text {
   color: #fff;
   font-size: 12px;
@@ -232,6 +237,61 @@
   color: #252525;
 }
 #social-buttons2-55 .mbr-header__text {
+  font-size: 19px;
+}
+#msg-box2-ct .mbr-header .mbr-header__text {
+  color: #252525;
+  font-family: 'Slabo 27px', serif;
+  font-size: 13px;
+}
+#msg-box2-ct .mbr-article {
+  color: #252525;
+}
+#social-buttons2-cs .mbr-header__text {
+  font-size: 19px;
+}
+#msg-box2-cv .mbr-header .mbr-header__text {
+  color: #252525;
+  font-family: 'Slabo 27px', serif;
+  font-size: 13px;
+}
+#msg-box2-cv .mbr-article {
+  color: #252525;
+}
+#social-buttons2-cw .mbr-header__text {
+  font-size: 19px;
+}
+#msg-box2-cy .mbr-header .mbr-header__text {
+  color: #252525;
+  font-family: 'Slabo 27px', serif;
+  font-size: 13px;
+}
+#msg-box2-cy .mbr-article {
+  color: #252525;
+}
+#social-buttons2-cz .mbr-header__text {
+  font-size: 19px;
+}
+#msg-box2-d1 .mbr-header .mbr-header__text {
+  color: #252525;
+  font-family: 'Slabo 27px', serif;
+  font-size: 13px;
+}
+#msg-box2-d1 .mbr-article {
+  color: #252525;
+}
+#social-buttons2-d2 .mbr-header__text {
+  font-size: 19px;
+}
+#msg-box2-d4 .mbr-header .mbr-header__text {
+  color: #252525;
+  font-family: 'Slabo 27px', serif;
+  font-size: 13px;
+}
+#msg-box2-d4 .mbr-article {
+  color: #252525;
+}
+#social-buttons2-d5 .mbr-header__text {
   font-size: 19px;
 }
 #msg-box2-56 .mbr-header .mbr-header__text {
@@ -1195,6 +1255,7 @@
 
 
 
+
 #msg-box1-b6 .mbr-header .mbr-header__text {
   color: #fff;
   font-size: 12px;
@@ -1224,6 +1285,17 @@
 }
 #msg-box2-cf .mbr-article {
   color: #252525;
+}
+#msg-box2-co .mbr-header .mbr-header__text {
+  color: #252525;
+  font-family: 'Slabo 27px', serif;
+  font-size: 13px;
+}
+#msg-box2-co .mbr-article {
+  color: #252525;
+}
+#social-buttons2-cq .mbr-header__text {
+  font-size: 19px;
 }
 #msg-box2-ba .mbr-header .mbr-header__text {
   color: #252525;
