@@ -6699,13 +6699,14 @@
             "theme": "aqua",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/slide3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pista-de-dana-personalizada-andressa-nunes-logo-576x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/slide3.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip3.jpg",
+                "src": "@PROJECT_PATH@/assets/images/pista%20de%20dan%C3%A7a%20personalizada%20-%20andressa%20nunes%20-%20logo-960x960.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/pista-de-dana-personalizada-andressa-nunes-logo-48x48.png",
                 "title": "title 1",
-                "text": "text 1"
+                "text": "text 1",
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide2.jpg",
@@ -6715,7 +6716,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
                 "title": "title 2",
                 "text": "text 2",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide1.jpg",
