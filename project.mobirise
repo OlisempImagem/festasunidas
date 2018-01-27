@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "decoracaotematica.html",
+    "currentPage": "principal.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 489,
     "versionPublish": "4.6.2",
@@ -631,8 +631,8 @@
         "main": true,
         "title": "Principal",
         "meta_descr": "menu",
-        "header_custom": "<style>\n.navbar-fixed-top  {\ntop:-70px;\nopacity:0;\n}\n</style>",
-        "footer_custom": "<script>\n /*---------------------------------------*/\n /*\tNAVIGATION AND NAVIGATION VISIBLE ON SCROLL\n /*---------------------------------------*/\n$( window ).on( \"load\", function() {\n    mainNav();\n    $(window).scroll(function() {\n        mainNav();\n    });\n    function mainNav() {\n        var top = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop;\n        if (top > 15) $('.navbar-fixed-top').stop().animate({\n            \"opacity\": '1',\n            \"top\": '0'\n        });\n        else $('.navbar-fixed-top').stop().animate({\n            \"top\": '-30',\n            \"opacity\": '0'\n        });\n\n\t}\n     });\n</script>",
+        "header_custom": "",
+        "footer_custom": "",
         "html_before": ""
       },
       "components": [
