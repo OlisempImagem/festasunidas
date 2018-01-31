@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "principal.html",
+    "currentPage": "locacaodecarros.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 489,
     "versionPublish": "4.6.2",
@@ -963,7 +963,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<br>Telefone: <a href=\"tel:(15) 3013-3506\">(15) 3013-3506</a>\n<div>Celular (15) 9-9667-1668</div><br><div>\n</div><div><a href=\"http://www.psasomeluz.com.br\" target=\"_blank\">Clique aqui</a> e&nbsp;</div><div>Visite nosso site</div>",
+          "title": "<br><br>Telefone: <a href=\"tel:(15) 3013-3506\">(15) 3013-3506</a>\n<div>Celular (15) 9-9667-1668</div><br><div>\n</div><div><a href=\"http://www.psasomeluz.com.br\" target=\"_blank\">Clique aqui</a> e&nbsp;</div><div>Visite nosso site</div>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -8196,7 +8196,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<br>HB Eventos<br><br>Telefone: <a href=\"tel:(15) 3202-7327\">(15) 3202-7327</a><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (15)99669-5556<br><br><a href=\"http://www.buffethb.com.br/\" target=\"_blank\">Clique aqui</a> e&nbsp;<br>Visite nosso Site.<br><br><a href=\"tel:(15) 3202-7327\"><br></a>Avenida Américo Figueiredo, 1600\r<div>Sorocaba\r</div><div><br></div>",
+          "title": "<br>HB Eventos<br><br>Telefone: <a href=\"tel:(15) 3202-7327\">(15) 3202-7327</a><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (15)99669-5556<br><br><a href=\"http://www.buffethb.com.br/\" target=\"_blank\">Clique aqui</a> e&nbsp;<br>Visite nosso Site.<br><br><a href=\"tel:(15) 3202-7327\"><br></a>Avenida Américo Figueiredo, 1600\n<div>Sorocaba\n</div><div><br></div>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -9688,24 +9688,10 @@
             "theme": "animated",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/diga-sim-logo-1600x907.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/diga%20sim%20-%20logo-319x181.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/diga-sim-logo-84x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-1600x1062.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/decora%C3%A7%C3%A3o-para-casamento-em-branco-3-800x531.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-72x48.png",
-                "title": "title 3",
-                "text": "text 3",
-                "active": true
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/diga-sim-logo-novo-1082x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/diga-sim-logo-novo-48x48.png",
+                "src": "@PROJECT_PATH@/assets/images/diga%20sim%20-%20logo%20novo-1280x1277.jpg"
               }
             ],
             "fullScreen": true,
@@ -9766,7 +9752,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<br><br>Telefone:<a href=\"tel:+551533299250\">(15) 3329-9250</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"tel:+551578341223\">(15) 7834-1223</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"tel:+551591150253\">(15) 9115-0233</a><br><br><a href=\"http://www.digasimcarros.com.br/index.php\" target=\"_blank\">Clique aqu</a>i e<br>Visite nosso Site<br><a href=\"tel:+551591150253\"><br></a>",
+          "title": "<br><br>Telefone:<a href=\"tel:+551533299250\">(15) 3329-9250</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"tel:15-988084623\">(15)-988084623</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"tel:+551591150253\">(15) 9115-0233</a><br><br><a href=\"http://www.digasimcarros.com.br/index.php\" target=\"_blank\">Clique aqu</a>i e<br>Visite nosso Site<br><a href=\"tel:+551591150253\"><br></a>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
