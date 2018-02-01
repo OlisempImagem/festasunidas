@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "Cabelo e maquigem.html",
+    "currentPage": "Buffet.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 498,
+    "uniqCompNum": 502,
     "versionPublish": "4.6.2",
     "theme": {
       "additionalSetColors": [
@@ -1169,7 +1169,7 @@
             "theme": "calm",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/buffet-junior-melo-logo-576x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buffet-junior-melo-logo-768x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/buffet%20junior%20melo%20-%20logo-300x300.png",
@@ -1193,9 +1193,9 @@
             "customSize": false,
             "customWidth": "1600",
             "customHeight": "1080",
-            "size": "1024x576",
+            "size": "1024x768",
             "width": "1024",
-            "height": "576"
+            "height": "768"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -1271,6 +1271,116 @@
             }
           },
           "_anchor": "social-buttons2-4k"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "calm",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/sushi-vip-logo-811x900.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/sushi%20vip%20-%20logo-866x960.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/sushi-vip-logo-43x48.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": false,
+            "responsive": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "captionsEffect": "slide",
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1024",
+            "height": "576"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-dx"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7dcba",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Sushi VIP<br><br>Telefone:<a href=\"tel:(15) 99644-7035\">(15) 99644-7035</a>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-dv"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Redes sociais",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"http://www.facebook.com.br/sushivip\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "social-buttons2-dw"
         },
         {
           "_inherit": "msg-box1",
@@ -7540,24 +7650,14 @@
             "theme": "animated",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ss-produoes-dj-som-e-luz-logo-1085x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-1-1920x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-2-85x47.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-1600x1062.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/decora%C3%A7%C3%A3o-para-casamento-em-branco-3-800x531.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-72x48.png",
+                "src": "@PROJECT_PATH@/assets/images/ss%20produ%C3%87oes%20dj%20som%20e%20luz%20-%20logo-200x199.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/ss-produoes-dj-som-e-luz-logo-48x48.png",
                 "title": "title 3",
                 "text": "text 3",
-                "active": false
+                "active": true
               }
             ],
             "fullScreen": true,
@@ -7618,7 +7718,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Empresa:<br>Descrição:",
+          "title": "<br>SS Produções Dj Som e Luz<br><br>Telefone:<a href=\"tel:(15) 99750-4755\">(15) 99750-4755</a><br><br><a href=\"http://ssproducoesdjsomeluz.business.site/\" target=\"_blank\">Clique aqui</a> e <br>Visite nossoSite&nbsp;",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -7641,7 +7741,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Redes sociais",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/ssdjandersonmotta/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_tags": [
             "Theme"
           ],
