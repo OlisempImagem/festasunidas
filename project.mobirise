@@ -5570,7 +5570,7 @@
           "_params": {
             "autoplay": true,
             "animType": "basic_linear",
-            "theme": "calm",
+            "theme": "animated",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mm-make-up-logo-576x576.jpg",
