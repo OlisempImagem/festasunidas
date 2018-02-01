@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "Buffet.html",
+    "currentPage": "cerimonial.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 502,
     "versionPublish": "4.6.2",
@@ -1260,7 +1260,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Redes sociais",
-          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/buffetjuniormelo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.facebook.com/buffetjuniormelo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/buffetjuniormelo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/buffetjuniormelo/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_tags": [
             "Theme"
           ],
