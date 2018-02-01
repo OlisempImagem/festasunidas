@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "locacaodecarros.html",
+    "currentPage": "Buffet.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 489,
+    "uniqCompNum": 490,
     "versionPublish": "4.6.2",
     "theme": {
       "additionalSetColors": [
@@ -1164,39 +1164,29 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "animType": "blur",
-            "theme": "animated",
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "calm",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/images-4-1600x942.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buffet-junior-melo-logo-576x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/images%20(4)-292x172.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/images-4-81x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/images-3-1600x873.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/images%20(3)-304x166.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/images-3-85x46.png",
+                "src": "@PROJECT_PATH@/assets/images/buffet%20junior%20melo%20-%20logo-300x300.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/buffet-junior-melo-logo-48x48.png",
                 "title": "title 3",
                 "text": "text 3",
-                "active": false
+                "active": true
               }
             ],
             "fullScreen": true,
             "showCaptions": false,
-            "hideControls": true,
+            "hideControls": false,
             "responsive": "1",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "captionsEffect": "slide",
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": 2,
@@ -1204,8 +1194,8 @@
             "customWidth": "1600",
             "customHeight": "1080",
             "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
+            "width": "1024",
+            "height": "576"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -1213,7 +1203,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-4i"
+          "_anchor": "wowslider-dl"
         },
         {
           "_inherit": "msg-box1",
@@ -1247,7 +1237,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Empresa:<br>Descrição:",
+          "title": "<br>Buffet Junior Melo<br><br>Telefone:<a href=\"tel:(15) 3418-5222\">(15) 3418-5222</a><br><br><a href=\"http://www.buffetjuniormelo.com.br/\" target=\"_blank\">Clique aqui</a> e&nbsp;<br>Visite nosso Site",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -1270,7 +1260,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Redes sociais",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/buffetjuniormelo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.facebook.com/buffetjuniormelo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_tags": [
             "Theme"
           ],
