@@ -1287,6 +1287,7 @@
 
 
 
+
 #msg-box1-b6 .mbr-header .mbr-header__text {
   color: #fff;
   font-size: 12px;
@@ -1335,6 +1336,17 @@
 }
 #msg-box2-di .mbr-article {
   color: #252525;
+}
+#msg-box2-do .mbr-header .mbr-header__text {
+  color: #252525;
+  font-family: 'Slabo 27px', serif;
+  font-size: 13px;
+}
+#msg-box2-do .mbr-article {
+  color: #252525;
+}
+#social-buttons2-dp .mbr-header__text {
+  font-size: 19px;
 }
 #msg-box2-ba .mbr-header .mbr-header__text {
   color: #252525;

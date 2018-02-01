@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Festas unidas",
-    "currentPage": "Buffet.html",
+    "currentPage": "videos.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 490,
+    "uniqCompNum": 494,
     "versionPublish": "4.6.2",
     "theme": {
       "additionalSetColors": [
@@ -7829,39 +7829,29 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "animType": "blur",
-            "theme": "animated",
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "calm",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1600x1064.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cantinho-doce-logo-576x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-1624x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-6-72x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-1600x1062.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/decora%C3%A7%C3%A3o-para-casamento-em-branco-3-800x531.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/decorao-para-casamento-em-branco-3-72x48.png",
+                "src": "@PROJECT_PATH@/assets/images/cantinho%20doce%20-%20logo-240x240.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/cantinho-doce-logo-48x48.png",
                 "title": "title 3",
                 "text": "text 3",
-                "active": false
+                "active": true
               }
             ],
             "fullScreen": true,
             "showCaptions": false,
-            "hideControls": true,
+            "hideControls": false,
             "responsive": "1",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "captionsEffect": "slide",
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": 2,
@@ -7869,8 +7859,8 @@
             "customWidth": "1600",
             "customHeight": "1080",
             "size": "1024x576",
-            "width": "1600",
-            "height": "1080"
+            "width": "1024",
+            "height": "576"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -7878,7 +7868,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-92"
+          "_anchor": "wowslider-dm"
         },
         {
           "_inherit": "msg-box1",
@@ -7912,7 +7902,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Empresa:<br>Descrição:",
+          "title": "<br><br>Cantinho Doce<br><br>Telefone: <a href=\"tel:(15) 3218-1176\">(15) 3218-1176</a><br><br><br>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
           "_tags": [
@@ -7935,7 +7925,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Redes sociais",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/cantinhodoce14/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_tags": [
             "Theme"
           ],
@@ -11485,6 +11475,116 @@
           ],
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-dj"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "animType": "basic_linear",
+            "theme": "calm",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/junior-magueta-foto-vdeo-logo-609x576.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/junior%20magueta%20foto%20v%C3%ADdeo%20-%20logo-200x189.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/junior-magueta-foto-vdeo-logo-50x48.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": false,
+            "responsive": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "captionsEffect": "slide",
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1024",
+            "height": "576"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-dn"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7dcba",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<br><br>Junior Magueta Foto Vídeo<br><br>Telefone: <a href=\"tel:(15) 30142909\">(15) 30142909</a> - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"tel:(15) 991082482\">(15) 991082482</a><br><br><a href=\"http://www.juniormagueta.com/\" target=\"_blank\">Clique aqui</a> e<br>Visiste nosso Site",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bandas.html#form1-23\" data-toolbar=\"-mbrBtnMove\">Solicite um orçamento</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#image2-3d\" data-toolbar=\"-mbrBtnMove\">Cupom de desconto</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-do"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Redes sociais",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/juniormagueta.fotovideo/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "social-buttons2-dp"
         },
         {
           "_inherit": "msg-box1",
